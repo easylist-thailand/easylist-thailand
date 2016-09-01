@@ -1,0 +1,39 @@
+[Adblock Plus 2.0]
+! Title: EasyList Thailand
+! Version: 1
+! Expires: 2 days
+! Homepage: https://github.com/easylist-thailand/easylist-thailand
+! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
+! Support: https://github.com/easylist-thailand/easylist-thailand/issues
+
+! Popular Websites
+kapook.com##.top-billboard-1200
+mthai.com###MT_HP_C_Billboard
+pramool.com###AutoNumber2
+pramool.com##table[cellspacing="0"][border="1"]
+pramool.com##iframe[src*="ads.pramool.com"]
+pramool.com##a[href*="pramool.com/ads"]
+bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+exteen.com###promote-box
+exteen.com###banner-box
+exteen.com###feature-box
+
+! Game
+playpark.com###myModal
+playpark.com##.modal-backdrop.fade.in
+jokergameth.com##div#contentMain > div[align="center"]
+
+! Serie
+seriesubthai.co###taboola
+seriesubthai.co###adspc_tags
+
+! Movie
+newmovie-hd.com###main article p[align="center"]
+newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
+
+! BitTorent Websites
+dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
+nongpink.com##.outer > div[style^="width:814px;"]
+
+! Widgets
+##iframe[src*="wink.in.th"]
