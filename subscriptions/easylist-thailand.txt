@@ -21,7 +21,8 @@ exteen.com###feature-box
 ! Game
 playpark.com###myModal
 playpark.com##.modal-backdrop.fade.in
-jokergameth.com##div#contentMain > div[align="center"]
+jokergameth.com###contentMain > div[align="center"]
+jokergameth.com###contentMain > br
 
 ! Serie
 seriesubthai.co###taboola
