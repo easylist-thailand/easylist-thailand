@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 1.0.1
+! Version: 1.0.2
 ! Expires: 1 days
 ! Homepage: https://github.com/easylist-thailand/easylist-thailand
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -28,6 +28,7 @@ jokergameth.com###contentMain > br
 ! Serie
 seriesubthai.co###taboola
 seriesubthai.co###adspc_tags
+seriesubthai.co###adotai-survey-frame-container
 !
 ! Movie
 newmovie-hd.com###main article p[align="center"]
