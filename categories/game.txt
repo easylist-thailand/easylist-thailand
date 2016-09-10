@@ -1,0 +1,6 @@
+! Game
+
+playpark.com###myModal
+playpark.com##.modal-backdrop.fade.in
+jokergameth.com###contentMain > div[align="center"]
+jokergameth.com###contentMain > br

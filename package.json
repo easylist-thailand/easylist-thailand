@@ -1,0 +1,29 @@
+{
+  "name": "easylist-thailand",
+  "version": "1.0.2",
+  "description": "EasyList filter subscription for Thailand.",
+  "main": "subscriptions/easylist-thailand.txt",
+  "private": true,
+  "scripts": {
+    "build": "gulp concat",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easylist-thailand/easylist-thailand.git"
+  },
+  "keywords": [
+    "easylist",
+    "thailand"
+  ],
+  "author": "Gluons <sarunta@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/easylist-thailand/easylist-thailand/issues"
+  },
+  "homepage": "https://github.com/easylist-thailand/easylist-thailand",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-util": "^0.5.5"
+  }
+}

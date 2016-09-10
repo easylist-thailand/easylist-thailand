@@ -1,0 +1,13 @@
+! Popular/Well-Known Websites
+
+kapook.com##.top-billboard-1200
+mthai.com###MT_HP_C_Billboard
+||ads.pramool.com
+pramool.com###AutoNumber2
+pramool.com##table[cellspacing="0"][border="1"]
+pramool.com##iframe[src*="ads.pramool.com"]
+pramool.com##a[href*="pramool.com/ads"]
+bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+exteen.com###promote-box
+exteen.com###banner-box
+exteen.com###feature-box

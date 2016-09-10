@@ -1,4 +1,6 @@
 # EasyList Thailand
+[![license](https://img.shields.io/github/license/easylist-thailand/easylist-thailand.svg?style=flat-square)](https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE)
+
 EasyList ตัวกรองสำหรับประเทศไทย  
 EasyList filter subscription for Thailand
 

@@ -1,0 +1,4 @@
+! Movie
+
+newmovie-hd.com###main article p[align="center"]
+newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)

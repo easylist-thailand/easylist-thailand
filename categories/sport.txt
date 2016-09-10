@@ -1,0 +1,11 @@
+! Sport
+
+|http://www.soccersuck.com/img/banner/
+soccersuck.com##[class^="adv"]
+soccersuck.com##.headline_head
+soccersuck.com##.sherer
+soccersuck.com##.content_right
+soccersuck.com##.adsBottoms
+soccersuck.com##.text-center.txt-color-white.font-md
+soccersuck.com##.content_main div[style="width:728px;height:90px;"]
+soccersuck.com##.post_desc div[style="width:700px;height:66px;"]
