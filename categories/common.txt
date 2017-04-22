@@ -1,4 +1,4 @@
-! Popular/Well-Known Websites
+! Common
 
 kapook.com##.top-billboard-1200
 mthai.com###MT_HP_C_Billboard

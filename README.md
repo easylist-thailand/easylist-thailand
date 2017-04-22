@@ -1,19 +1,25 @@
 # EasyList Thailand
 [![license](https://img.shields.io/github/license/easylist-thailand/easylist-thailand.svg?style=flat-square)](https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE)
+[![EasyList](https://img.shields.io/badge/EasyList-Thailand-2e8b57.svg?style=flat-square)](https://easylist-thailand.github.io/)
 
-EasyList ตัวกรองสำหรับประเทศไทย  
-EasyList filter subscription for Thailand
+รายการตัวกรอง **EasyList** สำหรับประเทศไทย  
+ช่วยคุณปิดกั้นโฆษณาทั้งหลายในเว็บต่างๆของประเทศไทย
 
-ช่วยคุณในการปิดกั้นโฆษณาทั้งหลายในเว็บต่างๆของประเทศไทย  
-Help you to block ads in Thailand websites.
+## การติดตั้ง
 
-## การติดตั้ง | Installation
 ติดตั้ง [Adblock Plus](https://adblockplus.org/) หรือ [uBlock Origin](https://github.com/gorhill/uBlock/#installation)
 
-จากนั้นก็เพิ่มไฟล์ Subscription [easylist-thailand.txt](https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscriptions/easylist-thailand.txt) เข้าสู่ Adblock Plus หรือ uBlock Origin ของท่าน
+จากนั้นก็เพิ่มไฟล์ Subscription [easylist-thailand.txt](./subscription/easylist-thailand.txt) เข้าสู่ Adblock Plus หรือ uBlock Origin ของท่าน
 
----
+## การพัฒนา
 
-First, install [Adblock Plus](https://adblockplus.org/) or [uBlock Origin](https://github.com/gorhill/uBlock/#installation).
+```bash
+# Install gem
+bundle install
 
-Then, add a subscription file [easylist-thailand.txt](https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscriptions/easylist-thailand.txt) to your Adblock Plus or uBlock Origin.
+# Generate subscription file
+rake
+
+# Clean subscription file
+rake clean
+```
