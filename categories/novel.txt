@@ -1,0 +1,6 @@
+! Novel
+
+||www.thaiboyslove.com/webboard/banner/*$image
+www.thaiboyslove.com##body > center:nth-of-type(2)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(2)

@@ -1,0 +1,11 @@
+! Script
+
+https://digital.ais.co.th/file/common/js/sub-store.js
+mds.nipa.co.th/*
+code.yengo.com/*
+saxp.zedo.com/*
+code.nytive.com/*
+cdn.popcash.net/*
+cdn.popmyads.com/*
+ads.bumq.com/*
+@@||gelbooru.com/ads.js?

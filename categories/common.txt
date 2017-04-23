@@ -1,13 +1,20 @@
 ! Common
 
 kapook.com##.top-billboard-1200
+kapook.com##body > div:nth-of-type(2)
+kapook.com##.wrapper > div:nth-of-type(7)
+kapook.com##.targetbanner-hilight
+kapook.com##.bigbanner
+
 mthai.com###MT_HP_C_Billboard
+
 ||ads.pramool.com
 pramool.com###AutoNumber2
 pramool.com##table[cellspacing="0"][border="1"]
 pramool.com##iframe[src*="ads.pramool.com"]
 pramool.com##a[href*="pramool.com/ads"]
 bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+
 exteen.com###promote-box
 exteen.com###banner-box
 exteen.com###feature-box
