@@ -215,13 +215,6 @@ playpark.com##.modal-backdrop.fade.in
 jokergameth.com###contentMain > div[align="center"]
 jokergameth.com###contentMain > br
 
-! Clickbit
-
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
-kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
-kaijeaw.com##.font-content.content:nth-of-type(3)
-
 ! Movie
 
 newmovie-hd.com###main article p[align="center"]
@@ -257,6 +250,13 @@ www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-typ
 
 nungg.com###nungg-1447152404 > .section-images
 nungg.com##.section-images
+
+! Clickbait
+
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
+kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
+kaijeaw.com##.font-content.content:nth-of-type(3)
 
 ! Widget
 
