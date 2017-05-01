@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 2.0.1
+! Version: 2.0.2
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: Apache License Version 2.0
@@ -45,175 +45,6 @@ xxxpostpic.org###SC_TBlock_289622
 xxxpostpic.org##.adscenter:nth-of-type(10)
 xxxpostpic.org##.block750
 xxxpostpic.org##.slidetop
-
-! Anime
-
-akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
-
-anime-sugoi.com##.row > center:nth-of-type(1)
-www.anime-sugoi.com##.row > center:nth-of-type(2)
-||www.anime-sugoi.com/css/ontop.png$image
-anime-sugoi.com##center:nth-of-type(4)
-www.anime-sugoi.com##center:nth-of-type(3)
-www.anime-sugoi.com##center:nth-of-type(5)
-anime-sugoi.com###slider-l
-anime-sugoi.com###slider-l
-anime-sugoi.com###slider-r
-www.anime-sugoi.com##center > center
-
-anime-i.com/files/banner/*
-anime-i.com##.textwidget > div:nth-of-type(3)
-anime-i.com##.textwidget > div:nth-of-type(4)
-
-www.king-anime.com###spc
-
-||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
-
-www.rock-anime.com##.container:nth-of-type(2)
-www.rock-anime.com##.panel-body > center
-
-anime-i.com##.banner-top
-
-neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
-neko-miku.com##.col-md-8
-neko-miku.com##.panel-default.panel:nth-of-type(3)
-neko-miku.com##.panel-default.panel:nth-of-type(2)
-
-||www.am4th.com/wp-content/uploads/2017/*$image
-||www.am4th.com/wp-content/uploads/2016/*$image
-
-www.gg-anime.com###nav-wrapper > a[target="_blank"]
-
-www.nice-anime.com###text-11
-www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
-www.nice-anime.com###M192293ScriptRootC68556
-www.nice-anime.com###head-content > div:nth-of-type(2)
-www.nice-anime.com###M192293ScriptRootC68553
-
-misa-anime.com##div#p9fe
-https://misa-anime.com/assets/js/ads.core.js?
-
-anime-lunla.com##div.r300x250
-
-anime-ox.com##div.container:nth-of-type(1)
-
-anime-thclub.com##strong#xaab
-
-hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
-
-miruanime.net##div.spu-bg
-miruanime.net##div.spu-box
-miruanime.net##div.miru-blockads
-
-snipertopanime.net##div#sitefocus
-snipertopanime.net##div.pcb > div:nth-of-type(5)
-snipertopanime.net##div.pcb > div:nth-of-type(3)
-
-! Banner
-
-https://xxxword.club/uploadpic/playxxx.jpg
-https://www.vdoxthai.com/ads.php
-
-! BitTorent
-
-dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
-nongpink.com##.outer > div[style^="width:814px;"]
-
-! Clickbait
-
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
-kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
-kaijeaw.com##.font-content.content:nth-of-type(3)
-
-! Common
-
-kapook.com##.top-billboard-1200
-kapook.com##body > div:nth-of-type(2)
-kapook.com##.wrapper > div:nth-of-type(7)
-kapook.com##.targetbanner-hilight
-kapook.com##.bigbanner
-
-mthai.com###MT_HP_C_Billboard
-
-||ads.pramool.com
-pramool.com###AutoNumber2
-pramool.com##table[cellspacing="0"][border="1"]
-pramool.com##iframe[src*="ads.pramool.com"]
-pramool.com##a[href*="pramool.com/ads"]
-bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
-
-exteen.com###promote-box
-exteen.com###banner-box
-exteen.com###feature-box
-
-! Game
-
-playpark.com###myModal
-playpark.com##.modal-backdrop.fade.in
-jokergameth.com###contentMain > div[align="center"]
-jokergameth.com###contentMain > br
-
-! Movie
-
-newmovie-hd.com###main article p[align="center"]
-newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
-
-www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
-www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
-www.037hd.com##.filmborder:nth-of-type(8)
-www.037hd.com##.bireklam:nth-of-type(2)
-www.037hd.com##.bireklam:nth-of-type(1)
-www.037hd.com##.bireklam:nth-of-type(3)
-www.037hd.com##.bireklam:nth-of-type(4)
-www.037hd.com##.bireklam:nth-of-type(5)
-www.037hd.com##.bireklam:nth-of-type(6)
-
-www.1000tep.com##.ads.col-lg-9
-
-||www.movie2free.com/wp-content/themes/next/images/*$image
-
-www.moviehd-master.com###text-9
-www.moviehd-master.com###text-5
-www.moviehd-master.com###text-6
-www.moviehd-master.com###text-8
-www.moviehd-master.com###banner_t_player
-www.moviehd-master.com###text-10
-
-okmovie-hd.com##.filmborder:nth-of-type(1)
-
-www.2youhd.com##.sidebarborder:nth-of-type(1)
-www.2youhd.com##.sidebarborder:nth-of-type(2)
-
-www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
-
-nungg.com###nungg-1447152404 > .section-images
-nungg.com##.section-images
-
-! Novel
-
-||www.thaiboyslove.com/webboard/banner/*$image
-www.thaiboyslove.com##body > center:nth-of-type(2)
-www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
-www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
-
-! Script
-
-https://digital.ais.co.th/file/common/js/sub-store.js
-mds.nipa.co.th/*
-code.yengo.com/*
-saxp.zedo.com/*
-code.nytive.com/*
-cdn.popcash.net/*
-cdn.popmyads.com/*
-ads.bumq.com/*
-@@||gelbooru.com/ads.js?
-
-! Serie
-
-seriesubthai.co###taboola
-seriesubthai.co###adspc_tags
-seriesubthai.co###adotai-survey-frame-container
 
 ! Sport
 
@@ -293,7 +124,176 @@ xn--12cf0e9alaj8at1avvw8lrh.com###bar_left
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(29)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(30)
 
+! Common
+
+kapook.com##.top-billboard-1200
+kapook.com##body > div:nth-of-type(2)
+kapook.com##.wrapper > div:nth-of-type(7)
+kapook.com##.targetbanner-hilight
+kapook.com##.bigbanner
+
+mthai.com###MT_HP_C_Billboard
+
+||ads.pramool.com
+pramool.com###AutoNumber2
+pramool.com##table[cellspacing="0"][border="1"]
+pramool.com##iframe[src*="ads.pramool.com"]
+pramool.com##a[href*="pramool.com/ads"]
+bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+
+exteen.com###promote-box
+exteen.com###banner-box
+exteen.com###feature-box
+
+! Anime
+
+akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
+
+anime-sugoi.com##.row > center:nth-of-type(1)
+www.anime-sugoi.com##.row > center:nth-of-type(2)
+||www.anime-sugoi.com/css/ontop.png$image
+anime-sugoi.com##center:nth-of-type(4)
+www.anime-sugoi.com##center:nth-of-type(3)
+www.anime-sugoi.com##center:nth-of-type(5)
+anime-sugoi.com###slider-l
+anime-sugoi.com###slider-l
+anime-sugoi.com###slider-r
+www.anime-sugoi.com##center > center
+
+anime-i.com/files/banner/*
+anime-i.com##.textwidget > div:nth-of-type(3)
+anime-i.com##.textwidget > div:nth-of-type(4)
+
+www.king-anime.com###spc
+
+||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
+
+www.rock-anime.com##.container:nth-of-type(2)
+www.rock-anime.com##.panel-body > center
+
+anime-i.com##.banner-top
+
+neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
+neko-miku.com##.col-md-8
+neko-miku.com##.panel-default.panel:nth-of-type(3)
+neko-miku.com##.panel-default.panel:nth-of-type(2)
+
+||www.am4th.com/wp-content/uploads/2017/*$image
+||www.am4th.com/wp-content/uploads/2016/*$image
+
+www.gg-anime.com###nav-wrapper > a[target="_blank"]
+
+www.nice-anime.com###text-11
+www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
+www.nice-anime.com###M192293ScriptRootC68556
+www.nice-anime.com###head-content > div:nth-of-type(2)
+www.nice-anime.com###M192293ScriptRootC68553
+
+misa-anime.com##div#p9fe
+https://misa-anime.com/assets/js/ads.core.js?
+
+anime-lunla.com##div.r300x250
+
+anime-ox.com##div.container:nth-of-type(1)
+
+anime-thclub.com##strong#xaab
+
+hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
+
+miruanime.net##div.spu-bg
+miruanime.net##div.spu-box
+miruanime.net##div.miru-blockads
+
+snipertopanime.net##div#sitefocus
+snipertopanime.net##div.pcb > div:nth-of-type(5)
+snipertopanime.net##div.pcb > div:nth-of-type(3)
+
+! Novel
+
+||www.thaiboyslove.com/webboard/banner/*$image
+www.thaiboyslove.com##body > center:nth-of-type(2)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
+
+! Serie
+
+seriesubthai.co###taboola
+seriesubthai.co###adspc_tags
+seriesubthai.co###adotai-survey-frame-container
+
+! Banner
+
+https://xxxword.club/uploadpic/playxxx.jpg
+https://www.vdoxthai.com/ads.php
+
+! Game
+
+playpark.com###myModal
+playpark.com##.modal-backdrop.fade.in
+jokergameth.com###contentMain > div[align="center"]
+jokergameth.com###contentMain > br
+
+! Movie
+
+newmovie-hd.com###main article p[align="center"]
+newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
+
+www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
+www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
+www.037hd.com##.filmborder:nth-of-type(8)
+www.037hd.com##.bireklam:nth-of-type(2)
+www.037hd.com##.bireklam:nth-of-type(1)
+www.037hd.com##.bireklam:nth-of-type(3)
+www.037hd.com##.bireklam:nth-of-type(4)
+www.037hd.com##.bireklam:nth-of-type(5)
+www.037hd.com##.bireklam:nth-of-type(6)
+
+www.1000tep.com##.ads.col-lg-9
+
+||www.movie2free.com/wp-content/themes/next/images/*$image
+
+www.moviehd-master.com###text-9
+www.moviehd-master.com###text-5
+www.moviehd-master.com###text-6
+www.moviehd-master.com###text-8
+www.moviehd-master.com###banner_t_player
+www.moviehd-master.com###text-10
+
+okmovie-hd.com##.filmborder:nth-of-type(1)
+
+www.2youhd.com##.sidebarborder:nth-of-type(1)
+www.2youhd.com##.sidebarborder:nth-of-type(2)
+
+www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
+
+nungg.com###nungg-1447152404 > .section-images
+nungg.com##.section-images
+
+! Clickbait
+
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
+kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
+kaijeaw.com##.font-content.content:nth-of-type(3)
+
 ! Widget
 
 ##iframe[src*="wink.in.th"]
+
+! BitTorent
+
+dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
+nongpink.com##.outer > div[style^="width:814px;"]
+
+! Script
+
+https://digital.ais.co.th/file/common/js/sub-store.js
+mds.nipa.co.th/*
+code.yengo.com/*
+saxp.zedo.com/*
+code.nytive.com/*
+cdn.popcash.net/*
+cdn.popmyads.com/*
+ads.bumq.com/*
+@@||gelbooru.com/ads.js?
 
