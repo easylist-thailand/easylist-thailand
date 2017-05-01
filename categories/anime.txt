@@ -41,3 +41,22 @@ www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
 www.nice-anime.com###M192293ScriptRootC68556
 www.nice-anime.com###head-content > div:nth-of-type(2)
 www.nice-anime.com###M192293ScriptRootC68553
+
+misa-anime.com##div#p9fe
+https://misa-anime.com/assets/js/ads.core.js?
+
+anime-lunla.com##div.r300x250
+
+anime-ox.com##div.container:nth-of-type(1)
+
+anime-thclub.com##strong#xaab
+
+hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
+
+miruanime.net##div.spu-bg
+miruanime.net##div.spu-box
+miruanime.net##div.miru-blockads
+
+snipertopanime.net##div#sitefocus
+snipertopanime.net##div.pcb > div:nth-of-type(5)
+snipertopanime.net##div.pcb > div:nth-of-type(3)
