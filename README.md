@@ -1,6 +1,7 @@
 # EasyList Thailand
 [![license](https://img.shields.io/github/license/easylist-thailand/easylist-thailand.svg?style=flat-square)](https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE)
-[![EasyList](https://img.shields.io/badge/EasyList-Thailand-2e8b57.svg?style=flat-square)](https://easylist-thailand.github.io/)
+[![EasyList Thailand](https://img.shields.io/badge/EasyList-Thailand-2e8b57.svg?style=flat-square)](https://easylist-thailand.github.io/)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://github.com/carloscuesta/gitmoji)
 
 รายการตัวกรอง **EasyList** สำหรับประเทศไทย  
 ช่วยคุณปิดกั้นโฆษณาทั้งหลายในเว็บต่างๆของประเทศไทย
