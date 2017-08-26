@@ -1,50 +1,36 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 2.0.2
+! Version: 2.0.3
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: Apache License Version 2.0
 ! Support: https://github.com/easylist-thailand/easylist-thailand/issues
 
 
-! Adult
+! Serie
 
-www.taradxxx.com###getFixedx
-www.taradxxx.com###getFixed
-www.taradxxx.com##.gosad
+seriesubthai.co###taboola
+seriesubthai.co###adspc_tags
+seriesubthai.co###adotai-survey-frame-container
 
-xxxporn7.com##.ad_single_content.ad > p:nth-of-type(1)
-xxxporn7.com##.ad_single_content.ad > p:nth-of-type(2)
+! Banner
 
-clip33.com##.sidebar-widget:nth-of-type(2) > .textwidget
-clip33.com##.banner-img-au
-clip33.com##.content-widget:nth-of-type(2)
+https://xxxword.club/uploadpic/playxxx.jpg
+https://www.vdoxthai.com/ads.php
 
-xxx5porn.com##.ad_single_content.ad
-xxx5porn.com##.ad_foot.ad
-xxx5porn.com###slider-l
-xxx5porn.com###slider-r
+! Game
 
-grimexcrew.com##.adss-des
+playpark.com###myModal
+playpark.com##.modal-backdrop.fade.in
+jokergameth.com###contentMain > div[align="center"]
+jokergameth.com###contentMain > br
 
-||xxxpostpic.org/imagedata/banner/*
-xxxpostpic.org##.adscenter:nth-of-type(20)
-xxxpostpic.org##.adscenter:nth-of-type(18)
-xxxpostpic.org##.adscenter:nth-of-type(19)
-xxxpostpic.org##.adscenter:nth-of-type(11)
-xxxpostpic.org##.adscenter:nth-of-type(12)
-xxxpostpic.org##.blockcolumn3
-xxxpostpic.org##.blockcolumn1
-xxxpostpic.org###SC_TBlock_289622
-xxxpostpic.org##.adscenter:nth-of-type(9)
-xxxpostpic.org##.adscenter:nth-of-type(10)
-xxxpostpic.org##.block750
-xxxpostpic.org##.slidetop
-xxxpostpic.org##.adscenter:nth-of-type(13)
-xxxpostpic.org###SC_TBlock_289622
-xxxpostpic.org##.adscenter:nth-of-type(10)
-xxxpostpic.org##.block750
-xxxpostpic.org##.slidetop
+! Novel
+
+||www.thaiboyslove.com/webboard/banner/*$image
+www.thaiboyslove.com##body > center:nth-of-type(2)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
 
 ! Sport
 
@@ -124,26 +110,99 @@ xn--12cf0e9alaj8at1avvw8lrh.com###bar_left
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(29)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(30)
 
-! Common
+! Clickbait
 
-kapook.com##.top-billboard-1200
-kapook.com##body > div:nth-of-type(2)
-kapook.com##.wrapper > div:nth-of-type(7)
-kapook.com##.targetbanner-hilight
-kapook.com##.bigbanner
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
+kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
+kaijeaw.com##.font-content.content:nth-of-type(3)
 
-mthai.com###MT_HP_C_Billboard
+! Adult
 
-||ads.pramool.com
-pramool.com###AutoNumber2
-pramool.com##table[cellspacing="0"][border="1"]
-pramool.com##iframe[src*="ads.pramool.com"]
-pramool.com##a[href*="pramool.com/ads"]
-bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+www.taradxxx.com###getFixedx
+www.taradxxx.com###getFixed
+www.taradxxx.com##.gosad
 
-exteen.com###promote-box
-exteen.com###banner-box
-exteen.com###feature-box
+xxxporn7.com##.ad_single_content.ad > p:nth-of-type(1)
+xxxporn7.com##.ad_single_content.ad > p:nth-of-type(2)
+
+clip33.com##.sidebar-widget:nth-of-type(2) > .textwidget
+clip33.com##.banner-img-au
+clip33.com##.content-widget:nth-of-type(2)
+
+xxx5porn.com##.ad_single_content.ad
+xxx5porn.com##.ad_foot.ad
+xxx5porn.com###slider-l
+xxx5porn.com###slider-r
+
+grimexcrew.com##.adss-des
+
+||xxxpostpic.org/imagedata/banner/*
+xxxpostpic.org##.adscenter:nth-of-type(20)
+xxxpostpic.org##.adscenter:nth-of-type(18)
+xxxpostpic.org##.adscenter:nth-of-type(19)
+xxxpostpic.org##.adscenter:nth-of-type(11)
+xxxpostpic.org##.adscenter:nth-of-type(12)
+xxxpostpic.org##.blockcolumn3
+xxxpostpic.org##.blockcolumn1
+xxxpostpic.org###SC_TBlock_289622
+xxxpostpic.org##.adscenter:nth-of-type(9)
+xxxpostpic.org##.adscenter:nth-of-type(10)
+xxxpostpic.org##.block750
+xxxpostpic.org##.slidetop
+xxxpostpic.org##.adscenter:nth-of-type(13)
+xxxpostpic.org###SC_TBlock_289622
+xxxpostpic.org##.adscenter:nth-of-type(10)
+xxxpostpic.org##.block750
+xxxpostpic.org##.slidetop
+
+! Movie
+
+newmovie-hd.com###main article p[align="center"]
+newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
+
+www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
+www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
+www.037hd.com##.filmborder:nth-of-type(8)
+www.037hd.com##.bireklam:nth-of-type(2)
+www.037hd.com##.bireklam:nth-of-type(1)
+www.037hd.com##.bireklam:nth-of-type(3)
+www.037hd.com##.bireklam:nth-of-type(4)
+www.037hd.com##.bireklam:nth-of-type(5)
+www.037hd.com##.bireklam:nth-of-type(6)
+
+www.1000tep.com##.ads.col-lg-9
+
+||www.movie2free.com/wp-content/themes/next/images/*$image
+
+www.moviehd-master.com###text-9
+www.moviehd-master.com###text-5
+www.moviehd-master.com###text-6
+www.moviehd-master.com###text-8
+www.moviehd-master.com###banner_t_player
+www.moviehd-master.com###text-10
+
+okmovie-hd.com##.filmborder:nth-of-type(1)
+
+www.2youhd.com##.sidebarborder:nth-of-type(1)
+www.2youhd.com##.sidebarborder:nth-of-type(2)
+
+www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
+
+nungg.com###nungg-1447152404 > .section-images
+nungg.com##.section-images
+
+! Script
+
+https://digital.ais.co.th/file/common/js/sub-store.js
+mds.nipa.co.th/*
+code.yengo.com/*
+saxp.zedo.com/*
+code.nytive.com/*
+cdn.popcash.net/*
+cdn.popmyads.com/*
+ads.bumq.com/*
+@@||gelbooru.com/ads.js?
 
 ! Anime
 
@@ -208,92 +267,39 @@ snipertopanime.net##div#sitefocus
 snipertopanime.net##div.pcb > div:nth-of-type(5)
 snipertopanime.net##div.pcb > div:nth-of-type(3)
 
-! Novel
-
-||www.thaiboyslove.com/webboard/banner/*$image
-www.thaiboyslove.com##body > center:nth-of-type(2)
-www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
-www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
-
-! Serie
-
-seriesubthai.co###taboola
-seriesubthai.co###adspc_tags
-seriesubthai.co###adotai-survey-frame-container
-
-! Banner
-
-https://xxxword.club/uploadpic/playxxx.jpg
-https://www.vdoxthai.com/ads.php
-
-! Game
-
-playpark.com###myModal
-playpark.com##.modal-backdrop.fade.in
-jokergameth.com###contentMain > div[align="center"]
-jokergameth.com###contentMain > br
-
-! Movie
-
-newmovie-hd.com###main article p[align="center"]
-newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
-
-www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
-www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
-www.037hd.com##.filmborder:nth-of-type(8)
-www.037hd.com##.bireklam:nth-of-type(2)
-www.037hd.com##.bireklam:nth-of-type(1)
-www.037hd.com##.bireklam:nth-of-type(3)
-www.037hd.com##.bireklam:nth-of-type(4)
-www.037hd.com##.bireklam:nth-of-type(5)
-www.037hd.com##.bireklam:nth-of-type(6)
-
-www.1000tep.com##.ads.col-lg-9
-
-||www.movie2free.com/wp-content/themes/next/images/*$image
-
-www.moviehd-master.com###text-9
-www.moviehd-master.com###text-5
-www.moviehd-master.com###text-6
-www.moviehd-master.com###text-8
-www.moviehd-master.com###banner_t_player
-www.moviehd-master.com###text-10
-
-okmovie-hd.com##.filmborder:nth-of-type(1)
-
-www.2youhd.com##.sidebarborder:nth-of-type(1)
-www.2youhd.com##.sidebarborder:nth-of-type(2)
-
-www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
-
-nungg.com###nungg-1447152404 > .section-images
-nungg.com##.section-images
-
-! Clickbait
-
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
-kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
-kaijeaw.com##.font-content.content:nth-of-type(3)
-
 ! Widget
 
 ##iframe[src*="wink.in.th"]
+
+! Common
+
+kapook.com##.top-billboard-1200
+kapook.com##body > div:nth-of-type(2)
+kapook.com##.wrapper > div:nth-of-type(7)
+kapook.com##.targetbanner-hilight
+kapook.com##.bigbanner
+
+mthai.com###MT_HP_C_Billboard
+
+||ads.pramool.com
+pramool.com###AutoNumber2
+pramool.com##table[cellspacing="0"][border="1"]
+pramool.com##iframe[src*="ads.pramool.com"]
+pramool.com##a[href*="pramool.com/ads"]
+bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+
+exteen.com###promote-box
+exteen.com###banner-box
+exteen.com###feature-box
+
+! News
+
+||www.techtalkthai.com/wp-content/*banner*$image
+www.techtalkthai.com###check-also-box
+www.techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
 
 ! BitTorent
 
 dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
 nongpink.com##.outer > div[style^="width:814px;"]
-
-! Script
-
-https://digital.ais.co.th/file/common/js/sub-store.js
-mds.nipa.co.th/*
-code.yengo.com/*
-saxp.zedo.com/*
-code.nytive.com/*
-cdn.popcash.net/*
-cdn.popmyads.com/*
-ads.bumq.com/*
-@@||gelbooru.com/ads.js?
 
