@@ -60,3 +60,6 @@ miruanime.net##div.miru-blockads
 snipertopanime.net##div#sitefocus
 snipertopanime.net##div.pcb > div:nth-of-type(5)
 snipertopanime.net##div.pcb > div:nth-of-type(3)
+
+toonzaa.com##center center a
+toonzaa.com##a[href*='http://45.gs']
