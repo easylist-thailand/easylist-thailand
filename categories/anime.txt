@@ -30,6 +30,8 @@ neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
 neko-miku.com##.col-md-8
 neko-miku.com##.panel-default.panel:nth-of-type(3)
 neko-miku.com##.panel-default.panel:nth-of-type(2)
+neko-miku.com##center>div.img-thumbnail
+neko-miku.com##body>div.hide
 
 ||www.am4th.com/wp-content/uploads/2017/*$image
 ||www.am4th.com/wp-content/uploads/2016/*$image
@@ -52,6 +54,7 @@ anime-ox.com##div.container:nth-of-type(1)
 anime-thclub.com##strong#xaab
 
 hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
+hime-anime.com##body>div.hide
 
 miruanime.net##div.spu-bg
 miruanime.net##div.spu-box
