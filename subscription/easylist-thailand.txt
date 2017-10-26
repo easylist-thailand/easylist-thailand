@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 2.0.5
+! Version: 2.0.6
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: Apache License Version 2.0
@@ -22,8 +22,14 @@ https://www.vdoxthai.com/ads.php
 
 playpark.com###myModal
 playpark.com##.modal-backdrop.fade.in
+
 jokergameth.com###contentMain > div[align="center"]
 jokergameth.com###contentMain > br
+
+||mustplay.in.th/*/banner
+mustplay.in.th##.preloader
+mustplay.in.th##.cover_preload
+mustplay.in.th##body > .promote
 
 ! Novel
 
