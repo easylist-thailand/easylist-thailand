@@ -7,6 +7,7 @@ jokergameth.com###contentMain > div[align="center"]
 jokergameth.com###contentMain > br
 
 ||mustplay.in.th/*/banner
-mustplay.in.th##.preloader
-mustplay.in.th##.cover_preload
-mustplay.in.th##body > .promote
+||playulti.com/*/banner
+mustplay.in.th,playulti.com##.preloader
+mustplay.in.th,playulti.com##.cover_preload
+mustplay.in.th,playulti.com##.promote
