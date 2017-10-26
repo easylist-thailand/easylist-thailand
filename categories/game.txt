@@ -2,5 +2,11 @@
 
 playpark.com###myModal
 playpark.com##.modal-backdrop.fade.in
+
 jokergameth.com###contentMain > div[align="center"]
 jokergameth.com###contentMain > br
+
+||mustplay.in.th/*/banner
+mustplay.in.th##.preloader
+mustplay.in.th##.cover_preload
+mustplay.in.th##body > .promote
