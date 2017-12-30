@@ -1,22 +1,23 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 2.0.7
+! Version: 2.0.8
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: Apache License Version 2.0
 ! Support: https://github.com/easylist-thailand/easylist-thailand/issues
 
 
-! Serie
+! Script
 
-seriesubthai.co###taboola
-seriesubthai.co###adspc_tags
-seriesubthai.co###adotai-survey-frame-container
-
-! Banner
-
-https://xxxword.club/uploadpic/playxxx.jpg
-https://www.vdoxthai.com/ads.php
+https://digital.ais.co.th/file/common/js/sub-store.js
+mds.nipa.co.th/*
+code.yengo.com/*
+saxp.zedo.com/*
+code.nytive.com/*
+cdn.popcash.net/*
+cdn.popmyads.com/*
+ads.bumq.com/*
+@@||gelbooru.com/ads.js?
 
 ! Game
 
@@ -32,14 +33,43 @@ mustplay.in.th,playulti.com##.preloader
 mustplay.in.th,playulti.com##.cover_preload
 mustplay.in.th,playulti.com##.promote
 
-! Novel
+! Banner
 
-||www.thaiboyslove.com/webboard/banner/*$image
-www.thaiboyslove.com##body > center:nth-of-type(2)
-www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
-www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
+https://xxxword.club/uploadpic/playxxx.jpg
+https://www.vdoxthai.com/ads.php
 
-goshujin.tk###banner
+! Clickbait
+
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
+kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
+kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
+kaijeaw.com##.font-content.content:nth-of-type(3)
+
+! BitTorent
+
+dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
+nongpink.com##.outer > div[style^="width:814px;"]
+
+! Common
+
+kapook.com##.top-billboard-1200
+kapook.com##body > div:nth-of-type(2)
+kapook.com##.wrapper > div:nth-of-type(7)
+kapook.com##.targetbanner-hilight
+kapook.com##.bigbanner
+
+mthai.com###MT_HP_C_Billboard
+
+||ads.pramool.com
+pramool.com###AutoNumber2
+pramool.com##table[cellspacing="0"][border="1"]
+pramool.com##iframe[src*="ads.pramool.com"]
+pramool.com##a[href*="pramool.com/ads"]
+bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
+
+exteen.com###promote-box
+exteen.com###banner-box
+exteen.com###feature-box
 
 ! Sport
 
@@ -119,13 +149,6 @@ xn--12cf0e9alaj8at1avvw8lrh.com###bar_left
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(29)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(30)
 
-! Clickbait
-
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
-kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
-kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
-kaijeaw.com##.font-content.content:nth-of-type(3)
-
 ! Adult
 
 www.taradxxx.com###getFixedx
@@ -201,17 +224,36 @@ www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-typ
 nungg.com###nungg-1447152404 > .section-images
 nungg.com##.section-images
 
-! Script
+! Novel
 
-https://digital.ais.co.th/file/common/js/sub-store.js
-mds.nipa.co.th/*
-code.yengo.com/*
-saxp.zedo.com/*
-code.nytive.com/*
-cdn.popcash.net/*
-cdn.popmyads.com/*
-ads.bumq.com/*
-@@||gelbooru.com/ads.js?
+||www.thaiboyslove.com/webboard/banner/*$image
+www.thaiboyslove.com##body > center:nth-of-type(2)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
+www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
+
+goshujin.tk###banner
+
+! Malicious Site
+
+||happylukebet.com
+
+! Serie
+
+seriesubthai.co###taboola
+seriesubthai.co###adspc_tags
+seriesubthai.co###adotai-survey-frame-container
+
+! Widget
+
+##iframe[src*="wink.in.th"]
+
+! News
+
+~www.blognone.com##.advertorial
+
+||www.techtalkthai.com/wp-content/*banner*$image
+www.techtalkthai.com###check-also-box
+www.techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
 
 ! Anime
 
@@ -281,44 +323,4 @@ snipertopanime.net##div.pcb > div:nth-of-type(3)
 
 toonzaa.com##center center a
 toonzaa.com##a[href*='http://45.gs']
-
-! Widget
-
-##iframe[src*="wink.in.th"]
-
-! Common
-
-kapook.com##.top-billboard-1200
-kapook.com##body > div:nth-of-type(2)
-kapook.com##.wrapper > div:nth-of-type(7)
-kapook.com##.targetbanner-hilight
-kapook.com##.bigbanner
-
-mthai.com###MT_HP_C_Billboard
-
-||ads.pramool.com
-pramool.com###AutoNumber2
-pramool.com##table[cellspacing="0"][border="1"]
-pramool.com##iframe[src*="ads.pramool.com"]
-pramool.com##a[href*="pramool.com/ads"]
-bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
-
-exteen.com###promote-box
-exteen.com###banner-box
-exteen.com###feature-box
-
-! News
-
-||www.techtalkthai.com/wp-content/*banner*$image
-www.techtalkthai.com###check-also-box
-www.techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
-
-! BitTorent
-
-dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
-nongpink.com##.outer > div[style^="width:814px;"]
-
-! Malicious Site
-
-||happylukebet.com
 
