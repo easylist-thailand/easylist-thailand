@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 2.0.8
+! Version: 2.0.9
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: Apache License Version 2.0
