@@ -20,8 +20,8 @@
 bundle install
 
 # Generate subscription file
-rake
+bundle exec rake
 
 # Clean subscription file
-rake clean
+bundle exec rake clean
 ```
