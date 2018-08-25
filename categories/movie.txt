@@ -16,6 +16,7 @@ www.037hd.com##.bireklam:nth-of-type(6)
 www.1000tep.com##.ads.col-lg-9
 
 ||www.movie2free.com/wp-content/themes/next/images/*$image
+||movie2free.com^$third-party
 
 www.moviehd-master.com###text-9
 www.moviehd-master.com###text-5

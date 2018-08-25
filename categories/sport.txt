@@ -2,6 +2,7 @@
 
 |http://www.soccersuck.com/img/banner/
 soccersuck.com##[class^="adv"]
+soccersuck.com##[rel^="nofollow"]
 soccersuck.com##.headline_head
 soccersuck.com##.sherer
 soccersuck.com##.content_right
