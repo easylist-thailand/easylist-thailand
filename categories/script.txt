@@ -9,3 +9,5 @@ cdn.popcash.net/*
 cdn.popmyads.com/*
 ads.bumq.com/*
 @@||gelbooru.com/ads.js?
+35.193.89.147/*
+35.193.89.147^$popup
