@@ -1,4 +1,4 @@
-
+﻿
 # Created by https://www.gitignore.io/api/ruby,linux,windows
 
 ### Linux ###
@@ -55,7 +55,7 @@ build-iPhoneSimulator/
 /rdoc/
 
 ## Environment normalization:
-/.bundle/
+/.bundle/**
 /vendor/bundle
 /lib/bundler/man/
 
@@ -74,8 +74,11 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
+# Dump file
+*.stackdump
+
 # Folder config file
-Desktop.ini
+[Dd]esktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -83,10 +86,15 @@ $RECYCLE.BIN/
 # Windows Installer files
 *.cab
 *.msi
+*.msix
 *.msm
 *.msp
 
 # Windows shortcuts
 *.lnk
 
+
 # End of https://www.gitignore.io/api/ruby,linux,windows
+
+# Bundler config
+!.bundle/config
