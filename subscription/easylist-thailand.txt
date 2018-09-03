@@ -167,6 +167,94 @@ mustplay.in.th,playulti.com##.preloader
 mustplay.in.th,playulti.com##.cover_preload
 mustplay.in.th,playulti.com##.promote
 
+! Taken from kowith337's lists (https://github.com/kowith337)
+
+autocar.in.th##.google-ads
+autocar.in.th##div[id^="_bz_boxlike"]
+gamegeek.in.th##.wppaszone
+gamegeek.in.th##div[data-title="Home popup"]
+goal.in.th###ads_top_content
+goal.in.th##.ajax-banner
+mustplay.in.th##.YouTubeModal
+rabbit.co.th##.ads-sidebar-middle
+rabbit.co.th##.exit-overlay
+rabbit.co.th##.post-entry .ads
+rabbit.co.th##.subscribe-form
+rabbit.co.th##.ui-front.ui-widget-overlay
+techtalkthai.com##.wrapper-outer .background-cover
+tgpl.in.th##div a[href^="http://www.compgamer.com/mario-ads/"]
+thailandbestbeauty.com###divAdLeft
+thailandbestbeauty.com###divAdRight
+thaimobilecenter.com##a[href^="http://www.thaimobilecenter.com/ad_click"]
+thaimobilecenter.com##iframe[src^="../banner/google_adsense"]
+thaimobilecenter.com##iframe[src^="../includes/inc_banner"]
+siamok.com##div[class^=SC_TBlock]
+siamok.com##div[id^="lightbox"]
+siamok.com##iframe[src="/ads/foot-yengo.php"]
+siamphone.com###banner300_600
+siamphone.com##.mid_ads
+tnews.co.th###myModal
+tnews.co.th##.in.fade.modal-backdrop
+tnews.co.th##.modal
+chujai.com,extremepc.in.th,ithaihotnews.com,itnews24hrs.com,juropy.com,kaijeaw.com,laughwoo.com,mthai.com,petmaya.com,tgpl.in.th,thaihitz.com##div[id^="arevicofancy"]
+mustplay.in.th,playulti.com###bg-left
+mustplay.in.th,playulti.com###bg-right
+mustplay.in.th,playulti.com###bgyoutube
+mustplay.in.th,playulti.com##.cover_page
+mustplay.in.th,playulti.com##.preloader
+mustplay.in.th,playulti.com##.promote
+||ads*.bangkokpost.co.th
+||ads*.matichon.co.th
+||nuffnang.co.th
+||nuffnang.com
+||ais.co.th$domain=~ais.co.th|~mobilelife.co.th,important
+||ais.co.th/aisnow$domain=~ais.co.th|~mobilelife.co.th,important
+||ais.co.th/games/gameloftclub$important
+||comenu.ais.co.th$domain=~ais.co.th|~mobilelife.co.th,important
+||ddch.dtac.co.th$important
+||mobilelife.co.th$domain=~ais.co.th|~mobilelife.co.th,important
+||sdpwap.dtac.co.th$important
+||srf.ais.co.th$domain=~ais.co.th|~mobilelife.co.th,important
+||ss1.mobilelife.co.th$important
+||ss2.mobilelife.co.th$important
+||ss3.mobilelife.co.th$important
+||vas.dtac.co.th$important
+||wap.dtac.co.th$important
+||arco.co.th$important
+||clickmultimedia.co.th$important
+||consentprt.dtac.co.th$important
+||dindo.co.th$important
+||innnews.co.th$important
+||isport.co.th$important
+||jmtt.co.th$important
+||monogame.in.th$important
+||playplay.in.th$important
+||playwork.co.th$important
+||radio.in.th$important
+||siam2you.com$important
+||siamfun4u.com$important
+||ss1.mobilelife.co.th$important
+||ss2.mobilelife.co.th$important
+||ss3.mobilelife.co.th$important
+||thinksmart.co.th$important
+||vplus.ais.co.th$important
+||vuclip.ais.co.th$important
+everythingisee.in.th##.widget-header:has(.adsbygoogle)
+mustplay.in.th##.panel-default:has(ul li div:has(a[href*="/game/page/"]))
+mustplay.in.th,playulti.com##.banner:has(a[rel])
+mustplay.in.th,playulti.com##a:has(img[src*="/data/setting/banner/"])
+playulti.com##.card .box:has(.box-banner)
+playulti.com##.card-content.card:has(a[href="https://www.facebook.com/playinter.th"][rel="external"])
+playulti.com##.card.game_page:has(.box:has(.box-banner))
+playulti.com##div[class^="card"]:has(h4:has-text(/RECOMMEND APPS/))
+rabbit.co.th##.widget-box:has(.ads-sidebar-top)
+||th.clubxzone.com$important
+||th.imgamma.com$important
+||thai-iphone.com$important
+||thai2mobi.com$important
+||thaimobile.com$important
+||thinksmart.co.th$important
+
 ! Malicious Site
 
 ||happylukebet.com
@@ -329,3 +417,4 @@ xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(30)
 ! Widget
 
 ##iframe[src*="wink.in.th"]
+
