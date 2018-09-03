@@ -1,20 +1,46 @@
 ! Common
-
-kapook.com##.top-billboard-1200
-kapook.com##body > div:nth-of-type(2)
-kapook.com##.wrapper > div:nth-of-type(7)
-kapook.com##.targetbanner-hilight
-kapook.com##.bigbanner
-
-mthai.com###MT_HP_C_Billboard
-
-||ads.pramool.com
-pramool.com###AutoNumber2
-pramool.com##table[cellspacing="0"][border="1"]
-pramool.com##iframe[src*="ads.pramool.com"]
-pramool.com##a[href*="pramool.com/ads"]
 bbs.pramool.com##[id="AutoNumber1"]:not(:nth-of-type(2))
-
-exteen.com###promote-box
+becteroradio.com##div[class^="fancybox"]
 exteen.com###banner-box
 exteen.com###feature-box
+exteen.com###promote
+exteen.com###promote-box
+exteen.com##.banner-box
+exteen.com##.feature-box
+exteen.com##.pr-box
+exteen.com##.promote-box
+kapook.com##.bigbanner
+kapook.com##.targetbanner-hilight
+kapook.com##.top-billboard-1200
+kapook.com##.wrapper > div:nth-of-type(7)
+kapook.com##body > div:nth-of-type(2)
+kapook.com##div[style*="text-align:center"] div[style*="z-index:"]
+m.pantip.com##.smartbanner
+m.pantip.com##.social-banner
+mthai.com###MT_HP_C_Billboard
+mthai.com###MT_HP_Topbanner
+mthai.com###coverpage
+mthai.com###ga-between
+mthai.com##.ads-rec-center
+mthai.com##.billboard-banner
+mthai.com##div[id^="dfp-"]
+pantip.com##.ads-tabloid
+pantip.com##.m-block a[href*="ads.pantip.com"]
+pantip.com##.post-pick-ad
+pantip.com##div[class^="ads-"]
+pantip.com##div[id^="ads-"]
+pantip.com##iframe[src*="ads.pantip.com"]
+pantip.com##iframe[src="https://pantip.com/home/get_activity_main"]
+pantip.com##img[src*="tapad.com"]
+picpost.mthai.com###masthead #dfp-topbanner
+picpost.mthai.com##.sticky-container .banner-wrap
+pramool.com###AutoNumber2
+pramool.com##a[href*="pramool.com/ads"]
+pramool.com##iframe[src*="ads.pramool.com"]
+pramool.com##table[cellspacing="0"][border="1"]
+upic.me###basic-modal-content
+upic.me##div[id^="simplemodal"]
+||ads.pramool.com
+||atimemedia.com/js/jquery.supportUs.js$script
+||becteroradio.com/2014/hidden-ad-inner.php?
+||becteroradio.com/truehitsstat.php?

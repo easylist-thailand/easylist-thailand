@@ -1,5 +1,16 @@
 ! Other / Uncategorised
 autocar.in.th##.google-ads
 autocar.in.th##div[id^="_bz_boxlike"]
+cleothailand.com###survey-popup
+m.webtoons.com##.downapp_area
+manyum.com###ui_popup_window_tpl
+manyum.com##div[id^="win_showLike"]
+popcornfor2.com###content div .banner-mobile-size
+sistacafe.com##.popup
+thailandbestbeauty.com###cboxOverlay
 thailandbestbeauty.com###divAdLeft
 thailandbestbeauty.com###divAdRight
+||iwilldoforking.com/coverpage.js$script,third-party
+||webtoons.com/js/lib/*_logger^
+||webtoons.com/js/lib/dfp_helper^
+||webtoons.com/js/lib/gak^

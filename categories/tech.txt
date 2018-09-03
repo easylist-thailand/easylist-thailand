@@ -1,0 +1,15 @@
+! Tech Review
+notebookspec.com###overlay_ads
+notebookspec.com##.cover_banner_bg
+notebookspec.com,specphone.com##iframe[src^="https://openx.notebookspec.com"]
+siamphone.com###banner300_600
+siamphone.com##.mid_ads
+specphone.com##.banana_box iframe[src^="https://notebookspec.com/specialprice"]
+specphone.com##.cover_banner
+specphone.com##div[id^=div-gpt-ad]
+techmoblog.com###cboxOverlay
+thaimobilecenter.com##a[href^="http://www.thaimobilecenter.com/ad_click"]
+thaimobilecenter.com##iframe[src^="../banner/google_adsense"]
+thaimobilecenter.com##iframe[src^="../includes/inc_banner"]
+||notebookspec.com/tracker^
+||techmoblog.com/tmb-advertise^$subdocument

@@ -1,5 +1,5 @@
 ! Script
-
+/plugins/popups/$script,stylesheet,domain=coregamerth.com|fmone1035.com|get1025.com|miru-anime.net|miruanime.net|shopspotapp.com
 ||35.193.89.147
 ||35.193.89.147^$popup
 ||ads.bumq.com
@@ -9,6 +9,7 @@
 ||code.yengo.com
 ||digital.ais.co.th/file/common/js/sub-store.js
 ||mds.nipa.co.th
+||metrics.brightcove.com
 ||nuffnang.com
 ||saxp.zedo.com
 @@||gelbooru.com/ads.js?

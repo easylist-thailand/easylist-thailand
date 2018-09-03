@@ -1,6 +1,0 @@
-! Phone
-siamphone.com###banner300_600
-siamphone.com##.mid_ads
-thaimobilecenter.com##a[href^="http://www.thaimobilecenter.com/ad_click"]
-thaimobilecenter.com##iframe[src^="../banner/google_adsense"]
-thaimobilecenter.com##iframe[src^="../includes/inc_banner"]

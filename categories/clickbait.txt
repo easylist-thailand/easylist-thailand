@@ -1,14 +1,59 @@
 ! Clickbait
+chujai.com,extremepc.in.th,ithaihotnews.com,itnews24hrs.com,juropy.com,kaijeaw.com,laughwoo.com,mthai.com,petmaya.com,tgpl.in.th,thaihitz.com##div[id^="arevicofancy"]
+clip-th.com###loginModal
+clip-th.com##div[data-dismiss="modal"]
+dodeden.com###intro
+dodeden.com##div[class^="banner-X2"]
+doodiza.com##.bigza-ads-block
+doodiza.com,startclip.com###popDiv
+doodiza.com,startclip.com###popup
 everythingisee.in.th##.widget-header:has(.adsbygoogle)
+jarm.com##._banner > a[href*="ads.jarm.com"]
 kaijeaw.com##.font-content.content:nth-of-type(3)
 kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
 kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
 kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
+kaijeaw.com,thaihitz.com,thaijobsgov.com##.backdrop
+kidjarak.com###spu-1170
+kidjarak.com##.stb-container
+kiitdoo.com,meekhao.com##.dgd_stb_box.clean_white
+kodlikes.com,oopsmobile.net##div[class^="fancybox"]
+liceza.com##div[id^="cbox"]
+liekr.com###showLikePopup
+liekr.com###topAd
+liekr.com##.foot_fb_like
+liekr.com##.like_yellow
+liekr.com##div[itemprop="articleBody"] a[class^="ui_btn"][href*="line.me"]
+lonely-rooyang.com##.fancybox-overlay
+lonely-rooyang.com##.fancybox-wrap
+meepanda.com##.adsense-leadin
+meepanda.com##.ezAdsense
+ohlor.com###upprev_box
+petmaya.com###arvlbdata
+picnic.ly##.essb-popup
+picnic.ly##.essb_bottombar
+postjung.com##.mainbox > div > .adsbygoogle
+postjung.com##.xadsense_middle
 rabbit.co.th##.ads-sidebar-middle
 rabbit.co.th##.exit-overlay
 rabbit.co.th##.post-entry .ads
 rabbit.co.th##.subscribe-form
 rabbit.co.th##.ui-front.ui-widget-overlay
+share-si.com###overlay
+share-si.com###yengo-inline-ads
+share-si.com##.yengo-x
 siamok.com##div[class^=SC_TBlock]
 siamok.com##div[id^="lightbox"]
 siamok.com##iframe[src="/ads/foot-yengo.php"]
+sudting.party##div[id^="SC_TBlock"]
+thaihitz.com,thaijobsgov.com##.SC_TBlock
+thaiza.com##.adv2col
+thaiza.com##.adv3col
+thaiza.com##.banner_728_90
+toritalk.com##.bottomad
+toritalk.com##.jquery-modal.blocker
+toritalk.com##.td-front-end-display-block
+toritalk.com##.topad
+yaklai.com##.td-post-content .err-subscription
+zaapmak.com##iframe
+||siamha.com/truehits/stat
