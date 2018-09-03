@@ -1,7 +1,10 @@
 ! News
-
-~www.blognone.com##.advertorial
-
-||www.techtalkthai.com/wp-content/*banner*$image
+rabbit.co.th##.widget-box:has(.ads-sidebar-top)
+techtalkthai.com##.wrapper-outer .background-cover
+tnews.co.th###myModal
+tnews.co.th##.in.fade.modal-backdrop
+tnews.co.th##.modal
+www.blognone.com#@#.advertorial
 www.techtalkthai.com###check-also-box
 www.techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
+||www.techtalkthai.com/wp-content/*banner*$image

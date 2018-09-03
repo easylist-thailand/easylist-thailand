@@ -1,0 +1,2 @@
+! Multiple entries that shared their name or path
+chujai.com,extremepc.in.th,ithaihotnews.com,itnews24hrs.com,juropy.com,kaijeaw.com,laughwoo.com,mthai.com,petmaya.com,tgpl.in.th,thaihitz.com##div[id^="arevicofancy"]

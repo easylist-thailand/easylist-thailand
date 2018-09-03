@@ -1,13 +1,24 @@
 ! Game
-
+gamegeek.in.th##.wppaszone
+gamegeek.in.th##div[data-title="Home popup"]
+jokergameth.com###contentMain > br
+jokergameth.com###contentMain > div[align="center"]
+mustplay.in.th##.YouTubeModal
+mustplay.in.th##.panel-default:has(ul li div:has(a[href*="/game/page/"]))
+mustplay.in.th,playulti.com###bg-left
+mustplay.in.th,playulti.com###bg-right
+mustplay.in.th,playulti.com###bgyoutube
+mustplay.in.th,playulti.com##.banner:has(a[rel])
+mustplay.in.th,playulti.com##.cover_preload
+mustplay.in.th,playulti.com##.preloader
+mustplay.in.th,playulti.com##.promote
+mustplay.in.th,playulti.com##a:has(img[src*="/data/setting/banner/"])
 playpark.com###myModal
 playpark.com##.modal-backdrop.fade.in
-
-jokergameth.com###contentMain > div[align="center"]
-jokergameth.com###contentMain > br
-
+playulti.com##.card .box:has(.box-banner)
+playulti.com##.card-content.card:has(a[href="https://www.facebook.com/playinter.th"][rel="external"])
+playulti.com##.card.game_page:has(.box:has(.box-banner))
+playulti.com##div[class^="card"]:has(h4:has-text(/RECOMMEND APPS/))
+tgpl.in.th##div a[href*="compgamer.com/mario-ads/"]
 ||mustplay.in.th/*/banner
 ||playulti.com/*/banner
-mustplay.in.th,playulti.com##.preloader
-mustplay.in.th,playulti.com##.cover_preload
-mustplay.in.th,playulti.com##.promote

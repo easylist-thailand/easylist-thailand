@@ -1,13 +1,14 @@
 ! Script
 
-https://digital.ais.co.th/file/common/js/sub-store.js
-mds.nipa.co.th/*
-code.yengo.com/*
-saxp.zedo.com/*
-code.nytive.com/*
-cdn.popcash.net/*
-cdn.popmyads.com/*
-ads.bumq.com/*
+||35.193.89.147
+||35.193.89.147^$popup
+||ads.bumq.com
+||cdn.popcash.net
+||cdn.popmyads.com
+||code.nytive.com
+||code.yengo.com
+||digital.ais.co.th/file/common/js/sub-store.js
+||mds.nipa.co.th
+||nuffnang.com
+||saxp.zedo.com
 @@||gelbooru.com/ads.js?
-35.193.89.147/*
-35.193.89.147^$popup

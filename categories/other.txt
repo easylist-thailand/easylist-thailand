@@ -1,0 +1,5 @@
+! Other / Uncategorised
+autocar.in.th##.google-ads
+autocar.in.th##div[id^="_bz_boxlike"]
+thailandbestbeauty.com###divAdLeft
+thailandbestbeauty.com###divAdRight
