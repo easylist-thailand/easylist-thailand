@@ -51,7 +51,15 @@ thisisgamethailand.com##a[href*="index.php?/stats/clickAdd/"]
 thisisgamethailand.com##div[id^="adsbanner"]
 ||compgamer.com/mainpage/module/popupnews/*
 ||compgamer.com/mario-ads^
+||coregamerth.com/*/jquery-cookie/*
+||game-tep.com/*/adrotate-pro/*
+||game-tep.com/*/fancy-box/*
+||gamegeek.in.th/*/layeredpopups/*
+||gamemonday.com/*/adrotate-pro/*
 ||mustplay.in.th/*/banner
+||mustplay.in.th/assets/js/jquery.tubular^
+||mustplay.in.th/assets/js/youtubepopup
+||mustplay.in.th/static/banner/*/ads-^
 ||online-station.net/*/ads/*
 ||online-station.net/*/css/preload_ads$stylesheet
 ||online-station.net/assets/*/os-adhoc^
@@ -59,5 +67,9 @@ thisisgamethailand.com##div[id^="adsbanner"]
 ||online-station.net/assets/js/ads$script
 ||online-station.net/assets/js/facebook$script
 ||online-station.net/assets/js/google^
+||online-station.net/content/count_stats?
 ||playulti.com/*/banner
+||playulti.com/assets/js/jquery.tubular^
+||playulti.com/company/truehit?
+||playulti.com/static/banner/*/ads-^
 ||tigthai.com/js/popup_facebook.js$script

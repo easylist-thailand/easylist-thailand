@@ -43,4 +43,9 @@ upic.me##div[id^="simplemodal"]
 ||ads.pramool.com
 ||atimemedia.com/js/jquery.supportUs.js$script
 ||becteroradio.com/2014/hidden-ad-inner.php?
+||becteroradio.com/lib/fancybox/
 ||becteroradio.com/truehitsstat.php?
+||kapook.com/ads/portal^
+||pantip.com/ads.php
+||pantip.com/adsip.php
+||pantip.com/adsipmobile.php

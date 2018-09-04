@@ -10,6 +10,12 @@
 ||digital.ais.co.th/file/common/js/sub-store.js
 ||mds.nipa.co.th
 ||metrics.brightcove.com
+||netdna-ssl.com/*/advanced-ads/
+||netdna-ssl.com/*/easy-social-share-buttons3/
 ||nuffnang.com
 ||saxp.zedo.com
+||sistacafe.com/scripts/nytive
+||sistacafe.com/scripts/truehits
+||sistacafe.com/scripts/yengo
+||thaiza.com/nodo.html
 @@||gelbooru.com/ads.js?

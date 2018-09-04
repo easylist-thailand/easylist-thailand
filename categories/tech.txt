@@ -11,5 +11,13 @@ techmoblog.com###cboxOverlay
 thaimobilecenter.com##a[href^="http://www.thaimobilecenter.com/ad_click"]
 thaimobilecenter.com##iframe[src^="../banner/google_adsense"]
 thaimobilecenter.com##iframe[src^="../includes/inc_banner"]
+||notebookspec.com/*/nbs-ilightbox/*
+||notebookspec.com/*/nbs_custom_ads_skin.php
 ||notebookspec.com/tracker^
+||specphone.com/*/nbs-ilightbox/*
+||techmoblog.com/*colorbox*
 ||techmoblog.com/tmb-advertise^$subdocument
+||techxcite.com/stats.php?
+||techxcite.com/truehitsstat.php?
+||thaimobilecenter.com/colorbox^
+||thetechr.com/*/jinda-facebook-lightbox/*

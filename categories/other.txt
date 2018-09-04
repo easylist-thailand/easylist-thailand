@@ -11,6 +11,11 @@ thailandbestbeauty.com###cboxOverlay
 thailandbestbeauty.com###divAdLeft
 thailandbestbeauty.com###divAdRight
 ||iwilldoforking.com/coverpage.js$script,third-party
+||marketingoops.com/*/itro-popup/*
+||marketingoops.com/popup-ad*
+||oopsmobile.net/*/arscode-ninja-popups/*
+||thaiidol.com/*/popup-by-supsystic/*
+||thailandbestbeauty.com/*colorbox*
 ||webtoons.com/js/lib/*_logger^
 ||webtoons.com/js/lib/dfp_helper^
 ||webtoons.com/js/lib/gak^
