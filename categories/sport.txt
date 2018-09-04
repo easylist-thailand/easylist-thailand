@@ -1,4 +1,32 @@
 ! Sport
+baanpolballs.com###ads
+baanpolballs.com###clip-banner
+baanpolballs.com###mainarea > .ads_forum
+baanpolballs.com###mid-banner
+baanpolballs.com###sidebar-right
+baanpolballs.com###soccer-table > .banner-wp:nth-of-type(3)
+baanpolballs.com###soccer-table > .banner-wp:nth-of-type(4)
+baanpolballs.com###soccer-table > .banner-wp:nth-of-type(5)
+baanpolballs.com###top-banner
+baanpolballs.com###webboard > .banner-wp:nth-of-type(2)
+baanpolballs.com###webboard > .banner-wp:nth-of-type(3)
+baanpolballs.com###webboard > .banner-wp:nth-of-type(4)
+baanpolballs.com##.L0.banner-wp
+baanpolballs.com##.L1.banner-wp
+baanpolballs.com##.L2.banner-wp
+baanpolballs.com##.L3.banner-wp
+baanpolballs.com##.L4.banner-wp
+baanpolballs.com##.L5.banner-wp
+baanpolballs.com##.L7.banner-wp
+baanpolballs.com##.L8.banner-wp
+baanpolballs.com##.T2
+goal.in.th###ads_top_content
+goal.in.th###todaytable > div:nth-of-type(3)
+goal.in.th###todaytable > div:nth-of-type(5)
+goal.in.th###todaytable > div:nth-of-type(7)
+goal.in.th##.ajax-banner
+goal.in.th##.banner-clear.banner-logo.ajax-banner.topbanner
+goal.in.th##.topbanner
 soccersuck.com##.adsBottoms
 soccersuck.com##.content_main div[style="width:728px;height:90px;"]
 soccersuck.com##.content_right
@@ -8,52 +36,26 @@ soccersuck.com##.sherer
 soccersuck.com##.text-center.txt-color-white.font-md
 soccersuck.com##[class^="adv"]
 soccersuck.com##[rel^="nofollow"]
-www.baanpolballs.com###ads
-www.baanpolballs.com###clip-banner
-www.baanpolballs.com###mainarea > .ads_forum
-www.baanpolballs.com###mid-banner
-www.baanpolballs.com###sidebar-right
-www.baanpolballs.com###soccer-table > .banner-wp:nth-of-type(3)
-www.baanpolballs.com###soccer-table > .banner-wp:nth-of-type(4)
-www.baanpolballs.com###soccer-table > .banner-wp:nth-of-type(5)
-www.baanpolballs.com###top-banner
-www.baanpolballs.com###webboard > .banner-wp:nth-of-type(2)
-www.baanpolballs.com###webboard > .banner-wp:nth-of-type(3)
-www.baanpolballs.com###webboard > .banner-wp:nth-of-type(4)
-www.baanpolballs.com##.L0.banner-wp
-www.baanpolballs.com##.L1.banner-wp
-www.baanpolballs.com##.L2.banner-wp
-www.baanpolballs.com##.L3.banner-wp
-www.baanpolballs.com##.L4.banner-wp
-www.baanpolballs.com##.L5.banner-wp
-www.baanpolballs.com##.L7.banner-wp
-www.baanpolballs.com##.L8.banner-wp
-www.baanpolballs.com##.T2
-www.goal.in.th###ads_top_content
-www.goal.in.th###todaytable > div:nth-of-type(3)
-www.goal.in.th###todaytable > div:nth-of-type(5)
-www.goal.in.th###todaytable > div:nth-of-type(7)
-www.goal.in.th##.ajax-banner
-www.goal.in.th##.banner-clear.banner-logo.ajax-banner.topbanner
-www.goal.in.th##.topbanner
 xn--12cf0e9alaj8at1avvw8lrh.com###bar_left
 xn--12cf0e9alaj8at1avvw8lrh.com###bar_left > div:nth-of-type(2)
 xn--12cf0e9alaj8at1avvw8lrh.com###bar_right
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(10)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(3)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(6)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(7)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(8)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(9)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(10)
+xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(10)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(3)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(5)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(6)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(7)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(8)
 xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(9)
+xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(10)
 xn--12cf0e9alaj8at1avvw8lrh.com###imghead
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(1)
+xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(2)
+xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(4)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(11)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(12)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(13)
@@ -62,7 +64,6 @@ xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(15)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(16)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(18)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(19)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(2)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(20)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(21)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(23)
@@ -71,5 +72,4 @@ xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(26)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(27)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(29)
 xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(30)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(4)
 ||soccersuck.com/img/banner

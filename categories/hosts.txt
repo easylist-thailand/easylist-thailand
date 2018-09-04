@@ -137,5 +137,3 @@
 ||yengo.com
 ||yu0123456.com
 ||zemanta.com
-
-||ais.co.th$domain=~ais.co.th|~mobilelife.co.th

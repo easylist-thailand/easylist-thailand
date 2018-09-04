@@ -3,6 +3,7 @@
 ||35.193.89.147
 ||35.193.89.147^$popup
 ||ads.bumq.com
+||ais.co.th$domain=~ais.co.th|~mobilelife.co.th
 ||cdn.popcash.net
 ||cdn.popmyads.com
 ||code.nytive.com
