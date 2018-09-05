@@ -2,21 +2,34 @@
 notebookspec.com###overlay_ads
 notebookspec.com##.cover_banner_bg
 notebookspec.com,specphone.com##iframe[src^="https://openx.notebookspec.com"]
+siamphone.com###adv_header
 siamphone.com###banner300_600
 siamphone.com##.mid_ads
 specphone.com##.banana_box iframe[src^="https://notebookspec.com/specialprice"]
 specphone.com##.cover_banner
+specphone.com##.td-more-articles-box
 specphone.com##div[id^=div-gpt-ad]
 techmoblog.com###cboxOverlay
+techmoblog.com##div[id^="ads_div_"]
+techxcite.com###adsMiniUnder
+techxcite.com###col_right .ads
+techxcite.com###skin-left
+techxcite.com###skin-right
+techxcite.com##.ads-feature
+thaimobilecenter.com##.container.bn-a2
+thaimobilecenter.com##.container.hidden-xs div[class^="col-"][align="right"]
+thaimobilecenter.com##.visible-lg.visible-xl iframe
 thaimobilecenter.com##a[href^="http://www.thaimobilecenter.com/ad_click"]
 thaimobilecenter.com##iframe[src^="../banner/google_adsense"]
 thaimobilecenter.com##iframe[src^="../includes/inc_banner"]
 ||notebookspec.com/*/nbs-ilightbox/*
 ||notebookspec.com/*/nbs_custom_ads_skin.php
 ||notebookspec.com/tracker^
+||oopsmobile.net/*/arscode-ninja-popups/*
 ||specphone.com/*/nbs-ilightbox/*
 ||techmoblog.com/*colorbox*
 ||techmoblog.com/tmb-advertise^$subdocument
+||techxcite.com/ads/revive/
 ||techxcite.com/stats.php?
 ||techxcite.com/truehitsstat.php?
 ||thaimobilecenter.com/colorbox^

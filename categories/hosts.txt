@@ -1,9 +1,10 @@
 ! Proper ads and tracking hosts
-||*adnow.com
 ||24x7th.com
+||*-adnow.com$third-party
 ||accesstrade.in.th
 ||adasiaholdings.com
 ||adok.asia
+||adop.cc
 ||ads*.bangkokpost.co.th
 ||ads*.matichon.co.th
 ||ads.boxza.com
@@ -36,6 +37,7 @@
 ||criteo.com
 ||criteo.net
 ||crwdcntrl.net
+||cryptobrowser.site
 ||csi.gstatic.com
 ||cxense.com
 ||d-stats.com
@@ -52,10 +54,12 @@
 ||gammaplatform.com
 ||gbotvisit.com
 ||gbox.sc
+||generaltagcom.ga
 ||go2cloud.org
 ||go2speed.org
 ||google-analytics.l.google.com
 ||heatmap.it
+||hilightad.kapook.com
 ||histats.com
 ||hotjar.com
 ||imrworldwide.com
@@ -63,6 +67,8 @@
 ||innity.com
 ||innity.net
 ||inspectlet.com
+||iyfnzgb.com
+||izooto.com
 ||joox-affiliate.sanook.com
 ||kiosked.com
 ||luckyorange.com
@@ -107,6 +113,7 @@
 ||replase.tk
 ||report-uri.cloudflare.com
 ||revsci.net
+||runtnc.net
 ||ruu-dee.com
 ||sales-frontier.com
 ||scorecardresearch.com
@@ -126,6 +133,7 @@
 ||tapad.com
 ||thstats.com
 ||thtrackingap.com
+||tityx.com
 ||travelpayouts.com
 ||truehits.in.th
 ||truehits.net
@@ -133,6 +141,8 @@
 ||user-api.com
 ||user-clicks.com
 ||user-red.com
+||uustoughtonma.org
+||whatshelp.io
 ||wmdstat.dev-sanook.com
 ||yengo.com
 ||yu0123456.com

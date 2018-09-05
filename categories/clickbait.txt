@@ -1,4 +1,5 @@
 ! Clickbait
+4toom.com###header .ad
 chujai.com,extremepc.in.th,ithaihotnews.com,itnews24hrs.com,juropy.com,kaijeaw.com,laughwoo.com,mthai.com,petmaya.com,tgpl.in.th,thaihitz.com##div[id^="arevicofancy"]
 clip-th.com###loginModal
 clip-th.com##div[data-dismiss="modal"]
@@ -7,13 +8,13 @@ dodeden.com##div[class^="banner-X2"]
 doodiza.com##.bigza-ads-block
 doodiza.com,startclip.com###popDiv
 doodiza.com,startclip.com###popup
-everythingisee.in.th##.widget-header:has(.adsbygoogle)
 jarm.com##._banner > a[href*="ads.jarm.com"]
 kaijeaw.com##.font-content.content:nth-of-type(3)
 kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(1)
 kaijeaw.com##.font-content.content:nth-of-type(5) > center:nth-of-type(2)
 kaijeaw.com##.row:nth-of-type(1) > .col-lg-12
 kaijeaw.com,thaihitz.com,thaijobsgov.com##.backdrop
+kanomjeeb.com##.article .row div .fb-like
 kidjarak.com###spu-1170
 kidjarak.com##.stb-container
 kiitdoo.com,meekhao.com##.dgd_stb_box.clean_white
@@ -21,6 +22,7 @@ kodlikes.com,oopsmobile.net##div[class^="fancybox"]
 liceza.com##div[id^="cbox"]
 liekr.com###showLikePopup
 liekr.com###topAd
+liekr.com##.detail_content .ui_adblock
 liekr.com##.foot_fb_like
 liekr.com##.like_yellow
 liekr.com##div[itemprop="articleBody"] a[class^="ui_btn"][href*="line.me"]
@@ -32,6 +34,7 @@ ohlor.com###upprev_box
 petmaya.com###arvlbdata
 picnic.ly##.essb-popup
 picnic.ly##.essb_bottombar
+postjung.com###rsticky
 postjung.com##.mainbox > div > .adsbygoogle
 postjung.com##.xadsense_middle
 rabbit.co.th##.ads-sidebar-middle
@@ -47,6 +50,7 @@ siamok.com##div[id^="lightbox"]
 siamok.com##iframe[src="/ads/foot-yengo.php"]
 sudting.party##div[id^="SC_TBlock"]
 thaihitz.com,thaijobsgov.com##.SC_TBlock
+thaijobsgov.com##.hidden-mobile
 thaiza.com##.adv2col
 thaiza.com##.adv3col
 thaiza.com##.banner_728_90

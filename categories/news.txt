@@ -3,16 +3,19 @@ blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
 blognone.com#@#.advertorial
 marketingoops.com###popup_countdown
 marketingoops.com##div[id^="itro_"]
-rabbit.co.th##.widget-box:has(.ads-sidebar-top)
 techmoblog.com###cboxWrapper
 techtalkthai.com###check-also-box
 techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
 techtalkthai.com##.wrapper-outer .background-cover
+thairath.co.th##.ad-box
+thairath.co.th##.container .row .ads
 thetechr.com##.jinda-content-block
 thetechr.com##.jinda-facebook-like-box
 thetechr.com##.jinda-overlay-background
 thetechr.com##.jinda-wrapper
+tnews.co.th###AdAsia
 tnews.co.th###myModal
+tnews.co.th###uniads
 tnews.co.th##.in.fade.modal-backdrop
 tnews.co.th##.modal
 ||techtalkthai.com/wp-content/*banner*$image

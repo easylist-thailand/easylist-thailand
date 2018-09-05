@@ -1,13 +1,20 @@
 ! Game
 compgamer.com##.backgroundPopup
 compgamer.com##div[aria-describedby="alert_popup_dialog"]
+compgamer.com,tgpl.in.th###divnews
+compgamer.com,tgpl.in.th##button[onclick][title="close"]
 coregamerth.com##.theiaStickySidebar div[id^="ads300_250"]
 game-tep.com##.leftBanner
 game-tep.com##.rightBanner
+game-tep.com##.td-more-articles-box
+game-tep.com##div[id^="divFLRALeft"]
+game-tep.com##div[id^="divFLRARight"]
+game-tep.com##div[id^="wh-widget"]
 gamegeek.in.th##.wppaszone
 gamegeek.in.th##.wppaszone
 gamegeek.in.th##div[data-title="Home popup"]
 gamegeek.in.th##div[data-title="Home popup"]
+gamemonday.com###my-welcome-message
 gamemonday.com##.ads-bottom
 jokergameth.com###contentMain > br
 jokergameth.com###contentMain > div[align="center"]
@@ -16,20 +23,18 @@ m.online-station.net##.os-install-app
 m.online-station.net##figure[class="os-floating-ad"]
 m.online-station.net##figure[class^="os-ad"]
 mustplay.in.th##.YouTubeModal
-mustplay.in.th##.panel-default:has(ul li div:has(a[href*="/game/page/"]))
 mustplay.in.th,playulti.com###bg-left
 mustplay.in.th,playulti.com###bg-right
 mustplay.in.th,playulti.com###bgyoutube
-mustplay.in.th,playulti.com##.banner:has(a[rel])
 mustplay.in.th,playulti.com##.cover_preload
 mustplay.in.th,playulti.com##.preloader
 mustplay.in.th,playulti.com##.promote
-mustplay.in.th,playulti.com##a:has(img[src*="/data/setting/banner/"])
 online-station.net###ads-overlay
 online-station.net###ads-preload-popup
 online-station.net###close-preload
 online-station.net###video_ads_container
 online-station.net###welcome
+online-station.net##.ad-box
 online-station.net##.bjqs
 online-station.net##.os-banner-ads
 online-station.net##.os-page-wallpaper
@@ -39,16 +44,15 @@ online-station.net##div[class^="os-ads"]
 online-station.net##div[data-widget="plista_widget_belowArticle"]
 online-station.net##div[data-widget="plista_widget_sidebar"]
 online-station.net##div[id*="div-gpt-ad"]
+online-station.net##section.bigbanner-ad
 playpark.com###myModal
 playpark.com##.modal-backdrop.fade.in
-playulti.com##.card .box:has(.box-banner)
-playulti.com##.card-content.card:has(a[href="https://www.facebook.com/playinter.th"][rel="external"])
-playulti.com##.card.game_page:has(.box:has(.box-banner))
-playulti.com##div[class^="card"]:has(h4:has-text(/RECOMMEND APPS/))
 tgpl.in.th##div a[href*="compgamer.com/mario-ads/"]
 thisisgamethailand.com##.container .item > a[href*="/index.php?/stats/clickAdd"]
 thisisgamethailand.com##a[href*="index.php?/stats/clickAdd/"]
 thisisgamethailand.com##div[id^="adsbanner"]
+thisisgamethailand.com,tigthai.com##.mod_banner
+thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||compgamer.com/mainpage/module/popupnews/*
 ||compgamer.com/mario-ads^
 ||coregamerth.com/*/jquery-cookie/*
@@ -56,6 +60,7 @@ thisisgamethailand.com##div[id^="adsbanner"]
 ||game-tep.com/*/fancy-box/*
 ||gamegeek.in.th/*/layeredpopups/*
 ||gamemonday.com/*/adrotate-pro/*
+||gamemonday.com/wp-content/themes/gamemonday/libs/jquery.firstVisitPopup.js
 ||mustplay.in.th/*/banner
 ||mustplay.in.th/assets/js/jquery.tubular^
 ||mustplay.in.th/assets/js/youtubepopup
