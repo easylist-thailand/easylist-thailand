@@ -9,11 +9,12 @@ end
 # Easylist Generator
 module EasylistGenerator
   def self.head(header_file_path, content)
-    result = File.read(header_file_path)
-    result += $RS * 2
+    header = File.read(header_file_path)
+    header = format(header, version: VERSION)
+    result = header + ($RS * 2)
     result += content
 
-    format(result, version: VERSION)
+    result
   end
 
   def self.concat(src_glob)
