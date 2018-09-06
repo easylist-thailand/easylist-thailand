@@ -15,8 +15,6 @@
 ||metrics.brightcove.com
 ||netdna-ssl.com/*/advanced-ads/
 ||netdna-ssl.com/*/easy-social-share-buttons3/
-||nuffnang.co.th
-||nuffnang.com
 ||saxp.zedo.com
 ||sistacafe.com/scripts/nytive
 ||sistacafe.com/scripts/truehits
