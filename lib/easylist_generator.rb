@@ -1,7 +1,7 @@
 require 'English'
 require 'fileutils'
 
-dir = File.expand_path('..', __FILE__)
+dir = File.expand_path(__dir__)
 Dir.glob("#{dir}/easylist_generator/*.rb") do |file|
   require file
 end
