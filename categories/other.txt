@@ -1,0 +1,25 @@
+! Other / Uncategorised
+autocar.in.th##.google-ads
+autocar.in.th##div[id^="_bz_boxlike"]
+cleothailand.com###survey-popup
+m.webtoons.com##.downapp_area
+manyum.com###ui_popup_window_tpl
+manyum.com##div[id^="win_showLike"]
+popcornfor2.com###content div .banner-mobile-size
+popcornfor2.com##.banner-990x90
+sistacafe.com###summary .social
+sistacafe.com##.popup
+thailandbestbeauty.com###cboxOverlay
+thailandbestbeauty.com###divAdLeft
+thailandbestbeauty.com###divAdRight
+||iwilldoforking.com/coverpage.js$script,third-party
+||marketingoops.com/*/itro-popup/*
+||marketingoops.com/popup-ad*
+||marketingoops.com/truehitsstat.php?
+||sistacafe.com/assets/jquery.cookie-*.js$script
+||sistacafe.com/assets/popup_notification-*.js$script
+||thaiidol.com/*/popup-by-supsystic/*
+||thailandbestbeauty.com/*colorbox*
+||webtoons.com/js/lib/*_logger*
+||webtoons.com/js/lib/dfp_helper*
+||webtoons.com/js/lib/gak*

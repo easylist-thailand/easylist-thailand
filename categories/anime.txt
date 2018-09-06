@@ -1,68 +1,50 @@
 ! Anime
-
+akibatan.com##.td-logo-wrap-full
 akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
-
-anime-sugoi.com##.row > center:nth-of-type(1)
-www.anime-sugoi.com##.row > center:nth-of-type(2)
-||www.anime-sugoi.com/css/ontop.png$image
-anime-sugoi.com##center:nth-of-type(4)
-www.anime-sugoi.com##center:nth-of-type(3)
-www.anime-sugoi.com##center:nth-of-type(5)
-anime-sugoi.com###slider-l
-anime-sugoi.com###slider-l
-anime-sugoi.com###slider-r
-www.anime-sugoi.com##center > center
-
-anime-i.com/files/banner/*
+anime-i.com##.banner-top
 anime-i.com##.textwidget > div:nth-of-type(3)
 anime-i.com##.textwidget > div:nth-of-type(4)
-
-www.king-anime.com###spc
-
-||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
-
-www.rock-anime.com##.container:nth-of-type(2)
-www.rock-anime.com##.panel-body > center
-
-anime-i.com##.banner-top
-
-neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
-neko-miku.com##.col-md-8
-neko-miku.com##.panel-default.panel:nth-of-type(3)
-neko-miku.com##.panel-default.panel:nth-of-type(2)
-neko-miku.com##center>div.img-thumbnail
-neko-miku.com##body>div.hide
-
-||www.am4th.com/wp-content/uploads/2017/*$image
-||www.am4th.com/wp-content/uploads/2016/*$image
-
-www.gg-anime.com###nav-wrapper > a[target="_blank"]
-
-www.nice-anime.com###text-11
-www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
-www.nice-anime.com###M192293ScriptRootC68556
-www.nice-anime.com###head-content > div:nth-of-type(2)
-www.nice-anime.com###M192293ScriptRootC68553
-
-misa-anime.com##div#p9fe
-https://misa-anime.com/assets/js/ads.core.js?
-
+anime-i.com/files/banner/*
 anime-lunla.com##div.r300x250
-
 anime-ox.com##div.container:nth-of-type(1)
-
+anime-sugoi.com###slider-l
+anime-sugoi.com###slider-r
+anime-sugoi.com##.row > center:nth-of-type(1)
+anime-sugoi.com##center:nth-of-type(4)
 anime-thclub.com##strong#xaab
-
+animeranku.com##.theiaStickySidebar #ads300_250-widget-4
 hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
 hime-anime.com##body>div.hide
-
+https://misa-anime.com/assets/js/ads.core.js?
+miruanime.net##div.miru-blockads
 miruanime.net##div.spu-bg
 miruanime.net##div.spu-box
-miruanime.net##div.miru-blockads
-
+misa-anime.com##div#p9fe
+neko-miku.com##.col-md-8
+neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
+neko-miku.com##.panel-default.panel:nth-of-type(2)
+neko-miku.com##.panel-default.panel:nth-of-type(3)
+neko-miku.com##body>div.hide
+neko-miku.com##center>div.img-thumbnail
 snipertopanime.net##div#sitefocus
-snipertopanime.net##div.pcb > div:nth-of-type(5)
 snipertopanime.net##div.pcb > div:nth-of-type(3)
-
-toonzaa.com##center center a
+snipertopanime.net##div.pcb > div:nth-of-type(5)
 toonzaa.com##a[href*='http://45.gs']
+toonzaa.com##center center a
+www.anime-sugoi.com##.row > center:nth-of-type(2)
+www.anime-sugoi.com##center > center
+www.anime-sugoi.com##center:nth-of-type(3)
+www.anime-sugoi.com##center:nth-of-type(5)
+www.gg-anime.com###nav-wrapper > a[target="_blank"]
+www.king-anime.com###spc
+www.nice-anime.com###M192293ScriptRootC68553
+www.nice-anime.com###M192293ScriptRootC68556
+www.nice-anime.com###head-content > div:nth-of-type(2)
+www.nice-anime.com###text-11
+www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
+www.rock-anime.com##.container:nth-of-type(2)
+www.rock-anime.com##.panel-body > center
+||www.am4th.com/wp-content/uploads/2016/*$image
+||www.am4th.com/wp-content/uploads/2017/*$image
+||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
+||www.anime-sugoi.com/css/ontop.png$image

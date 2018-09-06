@@ -1,36 +1,27 @@
 ! Movie
-
 newmovie-hd.com###main article p[align="center"]
 newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
-
-www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
-www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
-www.037hd.com##.filmborder:nth-of-type(8)
-www.037hd.com##.bireklam:nth-of-type(2)
+nungg.com###nungg-1447152404 > .section-images
+nungg.com##.section-images
+okmovie-hd.com##.filmborder:nth-of-type(1)
+www.2youhd.com##.sidebarborder:nth-of-type(1)
+www.2youhd.com##.sidebarborder:nth-of-type(2)
 www.037hd.com##.bireklam:nth-of-type(1)
+www.037hd.com##.bireklam:nth-of-type(2)
 www.037hd.com##.bireklam:nth-of-type(3)
 www.037hd.com##.bireklam:nth-of-type(4)
 www.037hd.com##.bireklam:nth-of-type(5)
 www.037hd.com##.bireklam:nth-of-type(6)
-
+www.037hd.com##.filmborder:nth-of-type(8)
+www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
+www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
 www.1000tep.com##.ads.col-lg-9
-
-||www.movie2free.com/wp-content/themes/next/images/*$image
-||movie2free.com^$third-party
-
-www.moviehd-master.com###text-9
+www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
+www.moviehd-master.com###banner_t_player
 www.moviehd-master.com###text-5
 www.moviehd-master.com###text-6
 www.moviehd-master.com###text-8
-www.moviehd-master.com###banner_t_player
+www.moviehd-master.com###text-9
 www.moviehd-master.com###text-10
-
-okmovie-hd.com##.filmborder:nth-of-type(1)
-
-www.2youhd.com##.sidebarborder:nth-of-type(1)
-www.2youhd.com##.sidebarborder:nth-of-type(2)
-
-www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
-
-nungg.com###nungg-1447152404 > .section-images
-nungg.com##.section-images
+||movie2free.com^$third-party
+||www.movie2free.com/wp-content/themes/next/images/*$image

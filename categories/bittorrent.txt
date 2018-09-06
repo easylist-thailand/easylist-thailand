@@ -1,4 +1,3 @@
 ! BitTorent
-
 dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
 nongpink.com##.outer > div[style^="width:814px;"]

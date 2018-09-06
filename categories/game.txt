@@ -1,13 +1,78 @@
 ! Game
-
+compgamer.com##.backgroundPopup
+compgamer.com##div[aria-describedby="alert_popup_dialog"]
+compgamer.com,tgpl.in.th###divnews
+compgamer.com,tgpl.in.th##button[onclick][title="close"]
+coregamerth.com##.theiaStickySidebar div[id^="ads300_250"]
+game-tep.com##.leftBanner
+game-tep.com##.rightBanner
+game-tep.com##.td-more-articles-box
+game-tep.com##div[id^="divFLRALeft"]
+game-tep.com##div[id^="divFLRARight"]
+game-tep.com##div[id^="wh-widget"]
+gamegeek.in.th##.wppaszone
+gamegeek.in.th##div[data-title="Home popup"]
+gamemonday.com###my-welcome-message
+gamemonday.com##.ads-bottom
+jokergameth.com###contentMain > br
+jokergameth.com###contentMain > div[align="center"]
+m.online-station.net###leaderboard_bottom.bottom_banner
+m.online-station.net##.os-install-app
+m.online-station.net##figure[class="os-floating-ad"]
+m.online-station.net##figure[class^="os-ad"]
+mustplay.in.th##.YouTubeModal
+mustplay.in.th,playulti.com###bg-left
+mustplay.in.th,playulti.com###bg-right
+mustplay.in.th,playulti.com###bgyoutube
+mustplay.in.th,playulti.com##.cover_preload
+mustplay.in.th,playulti.com##.preloader
+mustplay.in.th,playulti.com##.promote
+online-station.net###ads-overlay
+online-station.net###ads-preload-popup
+online-station.net###close-preload
+online-station.net###video_ads_container
+online-station.net###welcome
+online-station.net##.ad-box
+online-station.net##.bjqs
+online-station.net##.os-banner-ads
+online-station.net##.os-page-wallpaper
+online-station.net##.os_preload_popup
+online-station.net##div[class^="introjs"]
+online-station.net##div[class^="os-ads"]
+online-station.net##div[data-widget="plista_widget_belowArticle"]
+online-station.net##div[data-widget="plista_widget_sidebar"]
+online-station.net##div[id*="div-gpt-ad"]
+online-station.net##section.bigbanner-ad
 playpark.com###myModal
 playpark.com##.modal-backdrop.fade.in
-
-jokergameth.com###contentMain > div[align="center"]
-jokergameth.com###contentMain > br
-
+tgpl.in.th##div a[href*="compgamer.com/mario-ads/"]
+thisisgamethailand.com##.container .item > a[href*="/index.php?/stats/clickAdd"]
+thisisgamethailand.com##a[href*="index.php?/stats/clickAdd/"]
+thisisgamethailand.com##div[id^="adsbanner"]
+thisisgamethailand.com,tigthai.com##.mod_banner
+thisisgamethailand.com,tigthai.com##.mod_banner_top
+||compgamer.com/mainpage/module/popupnews/*
+||compgamer.com/mario-ads^
+||coregamerth.com/*/jquery-cookie/*
+||game-tep.com/*/adrotate-pro/*
+||game-tep.com/*/fancy-box/*
+||gamegeek.in.th/*/layeredpopups/*
+||gamemonday.com/*/adrotate-pro/*
+||gamemonday.com/wp-content/themes/gamemonday/libs/jquery.firstVisitPopup.js
 ||mustplay.in.th/*/banner
+||mustplay.in.th/assets/js/jquery.tubular^
+||mustplay.in.th/assets/js/youtubepopup
+||mustplay.in.th/static/banner/*/ads-^
+||online-station.net/*/ads/*
+||online-station.net/*/css/preload_ads$stylesheet
+||online-station.net/assets/*/os-adhoc^
+||online-station.net/assets/css/ads$stylesheet
+||online-station.net/assets/js/ads$script
+||online-station.net/assets/js/facebook$script
+||online-station.net/assets/js/google^
+||online-station.net/content/count_stats?
 ||playulti.com/*/banner
-mustplay.in.th,playulti.com##.preloader
-mustplay.in.th,playulti.com##.cover_preload
-mustplay.in.th,playulti.com##.promote
+||playulti.com/assets/js/jquery.tubular^
+||playulti.com/company/truehit?
+||playulti.com/static/banner/*/ads-^
+||tigthai.com/js/popup_facebook.js$script
