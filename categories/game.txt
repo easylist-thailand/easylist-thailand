@@ -11,8 +11,6 @@ game-tep.com##div[id^="divFLRALeft"]
 game-tep.com##div[id^="divFLRARight"]
 game-tep.com##div[id^="wh-widget"]
 gamegeek.in.th##.wppaszone
-gamegeek.in.th##.wppaszone
-gamegeek.in.th##div[data-title="Home popup"]
 gamegeek.in.th##div[data-title="Home popup"]
 gamemonday.com###my-welcome-message
 gamemonday.com##.ads-bottom

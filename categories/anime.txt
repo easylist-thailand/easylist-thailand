@@ -8,7 +8,6 @@ anime-i.com/files/banner/*
 anime-lunla.com##div.r300x250
 anime-ox.com##div.container:nth-of-type(1)
 anime-sugoi.com###slider-l
-anime-sugoi.com###slider-l
 anime-sugoi.com###slider-r
 anime-sugoi.com##.row > center:nth-of-type(1)
 anime-sugoi.com##center:nth-of-type(4)
