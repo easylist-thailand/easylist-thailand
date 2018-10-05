@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+  - 2.5
+before_install:
+  - gem update --system # Upgrade RubyGems
+  - openssl aes-256-cbc -K $encrypted_4341317bfcb2_key -iv $encrypted_4341317bfcb2_iv -in .travis/deploy_key.enc -out .travis/deploy_key -d
+  - rm -rf .bundle/ # Remove bundler config. Don't use it on CI.
+deploy:
+  provider: script
+  script: bash scripts/deploy.sh
+  skip_cleanup: true
+  on:
+    branch: master
