@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 require 'colorize'
+require 'rubocop/rake_task'
+
 require './lib/easylist_generator'
 
 task default: :generate
@@ -23,3 +25,5 @@ task generate: %i[clean] do
 
   puts '[Generate] Subscription file created.'.colorize(:green)
 end
+
+RuboCop::RakeTask.new
