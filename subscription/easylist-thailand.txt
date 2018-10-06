@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201810061600
-! Last modified: 06 Oct 2018 16:00 +0000
+! Version: 201810061628
+! Last modified: 06 Oct 2018 16:28 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
-! License: Apache License Version 2.0
+! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
 ! Support: https://github.com/easylist-thailand/easylist-thailand/issues
 
 
