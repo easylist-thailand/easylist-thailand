@@ -1,0 +1,6 @@
+AllCops:
+  TargetRubyVersion: 2.5
+  Exclude:
+    - 'vendor/bundle/**/*'
+Style:
+  Severity: error
