@@ -1,6 +1,5 @@
 require 'English'
 require 'fileutils'
-require 'date'
 
 dir = File.expand_path(__dir__)
 Dir.glob("#{dir}/easylist_generator/*.rb") do |file|
@@ -10,7 +9,7 @@ end
 # Easylist Generator
 module EasylistGenerator
   def self.head(header_file_path, content)
-    now = DateTime.now
+    now = Time.now
     version = now.strftime '%Y%m%d%H%M'
     last_modified = now.strftime '%d %b %Y %H:%M %z'
 
