@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'colorize'
 require './lib/easylist_generator'
 
