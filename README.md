@@ -13,15 +13,6 @@
 
 จากนั้นก็เพิ่มไฟล์ Subscription [easylist-thailand.txt](./subscription/easylist-thailand.txt) เข้าสู่ Adblock Plus หรือ uBlock Origin ของท่าน
 
-## การพัฒนา
+## การช่วยพัฒนา
 
-```bash
-# Install gem
-bundle install
-
-# Generate subscription file
-bundle exec rake
-
-# Clean subscription file
-bundle exec rake clean
-```
+สามารถอ่านใน [CONTRIBUTING.md](./CONTRIBUTING.md)
