@@ -21,5 +21,5 @@ END
 )
 git checkout master
 git add subscription/easylist-thailand.txt
-git commit -m ":bento: [skip ci] Auto-generate subscription from Travis CI (Build $TRAVIS_BUILD_ID)" -m $COMMIT_MSG
+git commit -m ":bento: [skip ci] Auto-generate subscription from Travis CI (Build $TRAVIS_BUILD_ID)" -m "$COMMIT_MSG"
 git push -u deploy master
