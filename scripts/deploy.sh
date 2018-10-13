@@ -18,7 +18,6 @@ COMMIT_MSG=$(cat <<- END
 
 
 	Co-Authored-By: $AUTHOR_NAME <$AUTHOR_EMAIL>
-	Travis CI log: $TRAVIS_BUILD_WEB_URL
 END
 )
 git checkout master
