@@ -14,12 +14,14 @@ git remote add deploy git@github.com:easylist-thailand/easylist-thailand.git
 
 # Push
 COMMIT_MSG=$(cat <<- END
-	Co-authored-by: $AUTHOR_NAME <$AUTHOR_EMAIL>
+	:bento: [skip ci] Auto-generate subscription from Travis CI (Build $TRAVIS_BUILD_ID)
 
+
+	Co-Authored-By: $AUTHOR_NAME <$AUTHOR_EMAIL>
 	Travis CI log: $TRAVIS_BUILD_WEB_URL
 END
 )
 git checkout master
 git add subscription/easylist-thailand.txt
-git commit -m ":bento: [skip ci] Auto-generate subscription from Travis CI (Build $TRAVIS_BUILD_ID)" -m "$COMMIT_MSG"
+git commit -m "$COMMIT_MSG"
 git push -u deploy master
