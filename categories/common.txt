@@ -45,6 +45,8 @@ upic.me##div[id^="simplemodal"]
 ||becteroradio.com/2014/hidden-ad-inner.php?
 ||becteroradio.com/lib/fancybox/
 ||becteroradio.com/truehitsstat.php?
+||isanook.com/*/oppa.js$script
+||isanook.com/*/tapad.js$script
 ||kapook.com/ads/portal^
 ||kapook.com/asset/js/track.js
 ||kapook.com/jquery/jquery.kp.tracker.js
