@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201810130854
-! Last modified: 13 Oct 2018 08:54 +0000
+! Version: 201810300644
+! Last modified: 30 Oct 2018 06:44 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -510,6 +510,8 @@ upic.me##div[id^="simplemodal"]
 ||becteroradio.com/2014/hidden-ad-inner.php?
 ||becteroradio.com/lib/fancybox/
 ||becteroradio.com/truehitsstat.php?
+||isanook.com/*/oppa.js$script
+||isanook.com/*/tapad.js$script
 ||kapook.com/ads/portal^
 ||kapook.com/asset/js/track.js
 ||kapook.com/jquery/jquery.kp.tracker.js
@@ -609,6 +611,7 @@ techtalkthai.com##.e3lan-below_header
 ||techtalkthai.com/wp-content/*banner*$image
 thairath.co.th##.ad-box
 thairath.co.th##.container .row .ads
+thairath.co.th##div[tabindex][style*="z-index"]
 thetechr.com##.jinda-content-block
 thetechr.com##.jinda-facebook-like-box
 thetechr.com##.jinda-overlay-background
