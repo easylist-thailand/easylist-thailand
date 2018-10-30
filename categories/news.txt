@@ -11,6 +11,7 @@ techtalkthai.com##.e3lan-below_header
 ||techtalkthai.com/wp-content/*banner*$image
 thairath.co.th##.ad-box
 thairath.co.th##.container .row .ads
+thairath.co.th##div[tabindex][style*="z-index"]
 thetechr.com##.jinda-content-block
 thetechr.com##.jinda-facebook-like-box
 thetechr.com##.jinda-overlay-background
