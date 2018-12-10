@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201810300644
-! Last modified: 30 Oct 2018 06:44 +0000
+! Version: 201812101447
+! Last modified: 10 Dec 2018 14:47 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -630,15 +630,9 @@ nungg.com##.section-images
 okmovie-hd.com##.filmborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(2)
-www.037hd.com##.bireklam:nth-of-type(1)
-www.037hd.com##.bireklam:nth-of-type(2)
-www.037hd.com##.bireklam:nth-of-type(3)
-www.037hd.com##.bireklam:nth-of-type(4)
-www.037hd.com##.bireklam:nth-of-type(5)
-www.037hd.com##.bireklam:nth-of-type(6)
-www.037hd.com##.filmborder:nth-of-type(8)
-www.037hd.com##.sidebarborder:nth-of-type(1) > .sidebar-right > .textwidget
-www.037hd.com##.sidebarborder:nth-of-type(2) > .sidebar-right > .textwidget
+www.037hd.com##.bireklam
+www.037hd.com##.filmborder > .filmcontent div[style^='text-align']
+www.037hd.com##.widget_text.sidebarborder
 www.1000tep.com##.ads.col-lg-9
 www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 www.moviehd-master.com###banner_t_player
@@ -649,6 +643,9 @@ www.moviehd-master.com###text-9
 www.moviehd-master.com###text-10
 ||movie2free.com^$third-party
 ||www.movie2free.com/wp-content/themes/next/images/*$image
+www.new-mastermovie.com###main > div[style^='text-align']
+www.new-mastermovie.com###sidebar .widget.widget_text
+www.leoplayer3.com###player_banner
 
 ! Serie
 seriesubthai.co###adotai-survey-frame-container
