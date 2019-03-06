@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201901261322
-! Last modified: 26 Jan 2019 13:22 +0000
+! Version: 201903060624
+! Last modified: 06 Mar 2019 06:24 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -379,6 +379,15 @@ www.rock-anime.com##.panel-body > center
 ||www.am4th.com/wp-content/uploads/2017/*$image
 ||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
 ||www.anime-sugoi.com/css/ontop.png$image
+animedd.xyz##.img-thumbnail:not([src^="https://animedd.xyz/"])
+animedd.xyz##[href*="casino"]
+animedd.xyz###floating_banner_top
+||i.imgur.com$domain=animedd.xyz
+animedd.xyz##[src="https://i.imgur.com/5Q894WW.jpg"]
+animedd.xyz#?#.col_del:-abp-contains(ปิดป้ายนี้)
+animedd.xyz#?#div.panel-primary.panel:-abp-contains(Text Link Ads)
+animedd.xyz###link_h_movie_ad
+||publish.iptvz.net$subdocument
 
 ! Sport
 baanpolballs.com###ads
