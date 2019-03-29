@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201903060624
-! Last modified: 06 Mar 2019 06:24 +0000
+! Version: 201903291524
+! Last modified: 29 Mar 2019 15:24 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -343,6 +343,8 @@ anime-sugoi.com###slider-r
 anime-sugoi.com##.row > center:nth-of-type(1)
 anime-sugoi.com##center:nth-of-type(4)
 anime-thclub.com##strong#xaab
+animeloli.com##.imgbanner
+animeloli.com###link_h_movie_ad
 animeranku.com##.theiaStickySidebar #ads300_250-widget-4
 hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
 hime-anime.com##body>div.hide
