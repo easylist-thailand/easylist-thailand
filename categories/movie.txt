@@ -18,6 +18,7 @@ www.moviehd-master.com###text-6
 www.moviehd-master.com###text-8
 www.moviehd-master.com###text-9
 www.moviehd-master.com###text-10
+||movies-x.com^$third-party,domain=~movie2free.com
 ||movie2free.com^$third-party
 ||www.movie2free.com/wp-content/themes/next/images/*$image
 www.new-mastermovie.com###main > div[style^='text-align']
