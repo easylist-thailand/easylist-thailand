@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201904100647
-! Last modified: 10 Apr 2019 06:47 +0000
+! Version: 201904210808
+! Last modified: 21 Apr 2019 08:08 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -530,6 +530,9 @@ upic.me##div[id^="simplemodal"]
 ||pantip.com/ads.php
 ||pantip.com/adsip.php
 ||pantip.com/adsipmobile.php
+||ufa191.com^$third-party
+||ufabet678.com^$third-party
+||movies-x.com^$third-party
 
 ! Game
 compgamer.com##.backgroundPopup
@@ -654,7 +657,7 @@ www.moviehd-master.com###text-6
 www.moviehd-master.com###text-8
 www.moviehd-master.com###text-9
 www.moviehd-master.com###text-10
-||movies-x.com^$third-party,domain=~movie2free.com
+movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 ||movie2free.com^$third-party
 ||www.movie2free.com/wp-content/themes/next/images/*$image
 www.new-mastermovie.com###main > div[style^='text-align']
