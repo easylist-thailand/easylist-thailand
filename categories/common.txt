@@ -53,3 +53,6 @@ upic.me##div[id^="simplemodal"]
 ||pantip.com/ads.php
 ||pantip.com/adsip.php
 ||pantip.com/adsipmobile.php
+||ufa191.com^$third-party
+||ufabet678.com^$third-party
+||movies-x.com^$third-party
