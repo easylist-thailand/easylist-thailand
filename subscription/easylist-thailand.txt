@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201904210808
-! Last modified: 21 Apr 2019 08:08 +0000
+! Version: 201904221023
+! Last modified: 22 Apr 2019 10:23 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -645,10 +645,10 @@ nungg.com##.section-images
 okmovie-hd.com##.filmborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(2)
-www.037hd.com##.bireklam
-www.037hd.com##.filmborder > .filmcontent div[style^='text-align']
-www.037hd.com##.widget_text.sidebarborder
-www.037hd.com###ads_fox_bottom
+www.037hdd.com##.bireklam
+www.037hdd.com##.filmborder > .filmcontent div[style^='text-align']
+www.037hdd.com##.widget_text.sidebarborder
+www.037hdd.com###ads_fox_bottom
 www.1000tep.com##.ads.col-lg-9
 www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 www.moviehd-master.com###banner_t_player
