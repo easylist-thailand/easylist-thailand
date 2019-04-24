@@ -30,3 +30,6 @@ vojkud.com##[alt="Advertisement"]
 vojkudee.net###top-banner-section
 vojkudee.net##.ad-box-widget
 vojkudee.net##[alt="Advertisement"]
+donung.tv##a[rel*="nofollow"] > img
+donung.tv###download-vdo
+donung.tv###ads_fox_bottom
