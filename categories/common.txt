@@ -56,3 +56,4 @@ upic.me##div[id^="simplemodal"]
 ||ufa191.com^$third-party
 ||ufabet678.com^$third-party
 ||movies-x.com^$third-party
+||ssnn.site^$third-party
