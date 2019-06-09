@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201904221023
-! Last modified: 22 Apr 2019 10:23 +0000
+! Version: 201906090832
+! Last modified: 09 Jun 2019 08:32 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -533,6 +533,7 @@ upic.me##div[id^="simplemodal"]
 ||ufa191.com^$third-party
 ||ufabet678.com^$third-party
 ||movies-x.com^$third-party
+||ssnn.site^$third-party
 
 ! Game
 compgamer.com##.backgroundPopup
@@ -669,6 +670,9 @@ vojkud.com##[alt="Advertisement"]
 vojkudee.net###top-banner-section
 vojkudee.net##.ad-box-widget
 vojkudee.net##[alt="Advertisement"]
+donung.tv##a[rel*="nofollow"] > img
+donung.tv###download-vdo
+donung.tv###ads_fox_bottom
 
 ! Serie
 seriesubthai.co###adotai-survey-frame-container
