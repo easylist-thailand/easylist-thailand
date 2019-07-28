@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201906090832
-! Last modified: 09 Jun 2019 08:32 +0000
+! Version: 201907280644
+! Last modified: 28 Jul 2019 06:44 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -650,6 +650,45 @@ www.037hdd.com##.bireklam
 www.037hdd.com##.filmborder > .filmcontent div[style^='text-align']
 www.037hdd.com##.widget_text.sidebarborder
 www.037hdd.com###ads_fox_bottom
+www.037hdd.com##div.bireklam:nth-of-type(1)
+www.037hdd.com##div.bireklam:nth-of-type(2)
+www.037hdd.com##div.bireklam:nth-of-type(3)
+www.037hdd.com##div.bireklam:nth-of-type(4)
+www.037hdd.com##div.bireklam:nth-of-type(5)
+www.037hdd.com##div.bireklam:nth-of-type(6)
+www.037hdd.com##div.bireklam:nth-of-type(7)
+www.037hdd.com##div.filmborder:nth-of-type(8)
+www.037hdd.com##div.bireklam:nth-of-type(9)
+www.037hdd.com##div.bireklam:nth-of-type(10)
+www.037hdd.com##div.bireklam:nth-of-type(11)
+www.037hdd.com##div.bireklam:nth-of-type(12)
+www.037hdd.com##div.filmborder:nth-of-type(13)
+www.037hdd.com##div.filmborder:nth-of-type(14)
+www.037hdd.com##div.filmborder:nth-of-type(15)
+www.037hdd.com##div.filmborder:nth-of-type(16)
+www.037hdd.com##div.filmborder:nth-of-type(17)
+www.037hdd.com##div.filmborder:nth-of-type(18)
+www.037hdd.com##div.filmborder:nth-of-type(19)
+www.037hdd.com##div.filmborder:nth-of-type(20)
+www.037hdd.com##div.bireklam:nth-of-type(21)
+www.037hdd.com##div.bireklam:nth-of-type(22)
+www.037hdd.com##div.filmborder:nth-of-type(23) > .filmcontent > div:nth-of-type(5)
+www.037hdd.com##div.filmborder:nth-of-type(23) > .filmcontent > div:nth-of-type(6)
+www.037hdd.com##div.filmborder:nth-of-type(23) > .filmcontent > div:nth-of-type(7)
+www.037hdd.com##.filmcontent > div:nth-of-type(10)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(3)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(4)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(5)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(6)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(7)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(8)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(9)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(10)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(11)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(12)
+www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(16)
+www.037hdd.com###banner-left
+www.037hdd.com###ads_fox_bottom
 www.1000tep.com##.ads.col-lg-9
 www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 www.moviehd-master.com###banner_t_player
@@ -686,6 +725,13 @@ https://www.vdoxthai.com/ads.php
 
 ! Widget
 ##iframe[src*="wink.in.th"]
+
+! E-Commerce
+||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
+||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
+||shopee.co.th/__t__$xmlhttprequest
+||shopee.co.th/userstats_record$xmlhttprequest
+||shopeemobile.com/th/tr$xmlhttprequest
 
 !#if ext_ublock
 4toom.com##.rightwidget div:has(a[href^="http://4toom.com/?p="])
