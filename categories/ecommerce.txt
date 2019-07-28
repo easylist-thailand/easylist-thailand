@@ -1,0 +1,6 @@
+! E-Commerce
+||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
+||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
+||shopee.co.th/__t__$xmlhttprequest
+||shopee.co.th/userstats_record$xmlhttprequest
+||shopeemobile.com/th/tr$xmlhttprequest
