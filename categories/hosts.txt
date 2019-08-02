@@ -120,7 +120,6 @@
 ||serving-sys.com
 ||shinobi.jp
 ||simba-digital.com
-||smemove.com
 ||socdm.com
 ||stat.matichon.co.th
 ||statmt.matichon.co.th
