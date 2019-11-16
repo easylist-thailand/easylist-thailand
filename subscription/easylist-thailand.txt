@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 201908021621
-! Last modified: 02 Aug 2019 16:21 +0000
+! Version: 201911161820
+! Last modified: 16 Nov 2019 18:20 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -881,6 +881,8 @@ tnews.co.th###myModal
 tnews.co.th###uniads
 tnews.co.th##.in.fade.modal-backdrop
 tnews.co.th##.modal
+thaivisa.com###home-friends-1
+thaivisa.com###header-friends
 
 ! Banner
 https://xxxword.club/uploadpic/playxxx.jpg
