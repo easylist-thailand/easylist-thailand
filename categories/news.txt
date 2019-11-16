@@ -21,3 +21,5 @@ tnews.co.th###myModal
 tnews.co.th###uniads
 tnews.co.th##.in.fade.modal-backdrop
 tnews.co.th##.modal
+thaivisa.com###home-friends-1
+thaivisa.com###header-friends
