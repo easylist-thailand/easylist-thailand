@@ -72,3 +72,6 @@ vojkudee.net##[alt="Advertisement"]
 donung.tv##a[rel*="nofollow"] > img
 donung.tv###download-vdo
 donung.tv###ads_fox_bottom
+movie2uhd.com##+js(json-prune, MU_ads)
+movie2uhd.com##.ad-float
+movie2uhd.com##.widgettitle-banner + a[href]
