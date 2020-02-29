@@ -4,7 +4,7 @@ require 'English'
 require 'fileutils'
 
 dir = File.expand_path(__dir__)
-Dir.glob("#{dir}/easylist_generator/*.rb") do |file|
+Dir.glob("#{dir}/easylist_generator/*.rb").sort.each do |file|
   require file
 end
 
