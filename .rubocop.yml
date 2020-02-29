@@ -4,3 +4,9 @@ AllCops:
     - 'vendor/bundle/**/*'
 Style:
   Severity: error
+Style/HashEachMethods:
+  Enabled: true
+Style/HashTransformKeys:
+  Enabled: true
+Style/HashTransformValues:
+  Enabled: true
