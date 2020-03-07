@@ -27,10 +27,24 @@ module EasylistGenerator
     result = ''
 
     Dir.glob(src_glob) do |file_path|
+      next if file_path.include? 'ublock'
+
       result += File.read(file_path) + $RS
     end
 
     result
+  end
+
+  def self.ublock
+    <<~UBLOCK
+      !#if ext_ublock
+      !#include ublock.txt
+      !#endif
+    UBLOCK
+  end
+
+  def self.copy(src_file_path, dest_file_path)
+    FileUtils.cp src_file_path, dest_file_path
   end
 
   def self.clean(dir)
