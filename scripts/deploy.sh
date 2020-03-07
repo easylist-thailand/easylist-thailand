@@ -22,5 +22,6 @@ END
 )
 git checkout master
 git add subscription/easylist-thailand.txt
+git add subscription/ublock.txt
 git commit -m "$COMMIT_MSG"
 git push -u deploy master
