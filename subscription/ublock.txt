@@ -1,4 +1,3 @@
-!#if ext_ublock
 4toom.com##.rightwidget div:has(a[href^="http://4toom.com/?p="])
 4toom.com##.single .content div:has(.adsbygoogle)
 aroundnews.net##.td-g-rec:has(.adsbygoogle)
@@ -119,4 +118,3 @@ thetechr.com##.rev-block:has(.adsbygoogle)
 thisisgamethailand.com##.module .item:has(a[href*="/index.php?/stats/clickAdd"])
 tnews.co.th##.hidden-sm.hidden-xs:has(div script[src^="//code.yengo.com/"])
 movie2uhd.com##+js(json-prune, MU_ads)
-!endif
