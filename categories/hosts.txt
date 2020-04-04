@@ -42,7 +42,6 @@
 ||cxense.com
 ||d-stats.com
 ||dtscout.com
-||edgesuite.net
 ||effectivemeasure.net
 ||exdynsrv.com
 ||exoclick.com
