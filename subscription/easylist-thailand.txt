@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202003071613
-! Last modified: 07 Mar 2020 16:13 +0000
+! Version: 202004040720
+! Last modified: 04 Apr 2020 07:20 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -387,7 +387,6 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||cxense.com
 ||d-stats.com
 ||dtscout.com
-||edgesuite.net
 ||effectivemeasure.net
 ||exdynsrv.com
 ||exoclick.com
