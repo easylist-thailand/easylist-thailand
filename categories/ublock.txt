@@ -117,4 +117,6 @@ thaimobilecenter.com###exp-normal:has(a[href*="/ad_click"])
 thetechr.com##.rev-block:has(.adsbygoogle)
 thisisgamethailand.com##.module .item:has(a[href*="/index.php?/stats/clickAdd"])
 tnews.co.th##.hidden-sm.hidden-xs:has(div script[src^="//code.yengo.com/"])
+# movie2uhd
 movie2uhd.com##+js(json-prune, MU_ads)
+*$media,3p,domain=hdd.moviefun24.com,redirect=noopmp3-0.1s
