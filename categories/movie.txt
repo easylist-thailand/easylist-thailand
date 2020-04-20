@@ -4,6 +4,8 @@ newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
 nungg.com###nungg-1447152404 > .section-images
 nungg.com##.section-images
 okmovie-hd.com##.filmborder:nth-of-type(1)
+thmovieshd.com##.bn_pc
+thmovieshd.com##.bn_mb
 www.2youhd.com##.sidebarborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(2)
 www.037hdd.com##.bireklam

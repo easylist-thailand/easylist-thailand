@@ -120,3 +120,9 @@ tnews.co.th##.hidden-sm.hidden-xs:has(div script[src^="//code.yengo.com/"])
 # movie2uhd
 movie2uhd.com##+js(json-prune, MU_ads)
 *$media,3p,domain=hdd.moviefun24.com,redirect=noopmp3-0.1s
+# thmovieshd
+thmovieshd.com##.container div[class^="col-"] .row a[href]:has(img[alt="UFABET"])
+thmovieshd.com##.newmovie .row a[href]:has(img[alt="UFABET"])
+thmovieshd.com##.post-contentarea .rpv .block-preload #block_preload p a[href*="gclub-casino.net"]
+thmovieshd.com##+js(nano-sib, #close_preload, 1000, 0)
+||b-cdn.net/ssd1/ads/*.mp4$media,important,redirect=noopmp4-1s,domain=thmovieshd.com
