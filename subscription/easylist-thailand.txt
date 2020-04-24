@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202004181104
-! Last modified: 18 Apr 2020 11:04 +0000
+! Version: 202004240301
+! Last modified: 24 Apr 2020 03:01 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -503,6 +503,9 @@ newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
 nungg.com###nungg-1447152404 > .section-images
 nungg.com##.section-images
 okmovie-hd.com##.filmborder:nth-of-type(1)
+thmovieshd.com##.bn_pc
+thmovieshd.com##.bn_mb
+thmovieshd.com##.post-contentarea .rpv .block-preload #block_preload p a[href*="gclub-casino.net"]
 www.2youhd.com##.sidebarborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(2)
 www.037hdd.com##.bireklam
