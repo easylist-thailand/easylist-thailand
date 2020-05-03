@@ -1,4 +1,5 @@
 ! BitTorent
 dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
 nongpink.com##.outer > div[style^="width:814px;"]
-tt-torrent.com###main table td.text-center a
+tt-torrent.com###notification + .row > center
+tt-torrent.com###torrent_download .row .small-12
