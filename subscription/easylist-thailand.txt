@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202004240301
-! Last modified: 24 Apr 2020 03:01 +0000
+! Version: 202005031650
+! Last modified: 03 May 2020 16:50 +0000
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -107,7 +107,8 @@ https://www.vdoxthai.com/ads.php
 ! BitTorent
 dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
 nongpink.com##.outer > div[style^="width:814px;"]
-tt-torrent.com###main table td.text-center a
+tt-torrent.com###notification + .row > center
+tt-torrent.com###torrent_download .row .small-12
 
 ! Clickbait
 4toom.com###header .ad
