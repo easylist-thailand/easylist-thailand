@@ -2,4 +2,4 @@
 dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
 nongpink.com##.outer > div[style^="width:814px;"]
 tt-torrent.com###notification + .row > center
-tt-torrent.com###torrent_download .row .small-12
+tt-torrent.com###torrent_download .row .small-12:nth-of-type(1)
