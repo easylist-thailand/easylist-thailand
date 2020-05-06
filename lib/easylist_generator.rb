@@ -30,7 +30,7 @@ module EasylistGenerator
   ##
   # Get subscription header content.
   def self.head
-    now = Time.now
+    now = Time.now.getlocal '+07:00' # Thai time
     version = now.strftime '%Y%m%d%H%M'
     last_modified = now.strftime '%d %b %Y %H:%M %z'
 
