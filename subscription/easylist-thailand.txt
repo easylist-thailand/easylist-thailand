@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202005061528
-! Last modified: 06 May 2020 15:28 +0700
+! Version: 202009031912
+! Last modified: 03 Sep 2020 19:12 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -99,6 +99,9 @@ animedd.xyz#?#.col_del:-abp-contains(ปิดป้ายนี้)
 animedd.xyz#?#div.panel-primary.panel:-abp-contains(Text Link Ads)
 animedd.xyz###link_h_movie_ad
 ||publish.iptvz.net$subdocument
+
+! Annoyance
+/plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
 
 ! Banner
 https://xxxword.club/uploadpic/playxxx.jpg
