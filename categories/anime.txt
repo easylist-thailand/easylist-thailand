@@ -60,3 +60,6 @@ animedd.xyz#?#.col_del:-abp-contains(ปิดป้ายนี้)
 animedd.xyz#?#div.panel-primary.panel:-abp-contains(Text Link Ads)
 animedd.xyz###link_h_movie_ad
 ||publish.iptvz.net$subdocument
+animekimi.com##.module_home_x
+www.animelolo.com##.row > center
+www.animelolo.com##.imgbanner
