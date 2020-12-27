@@ -38,6 +38,7 @@ www.anime-sugoi.com##.row > center:nth-of-type(2)
 www.anime-sugoi.com##center > center
 www.anime-sugoi.com##center:nth-of-type(3)
 www.anime-sugoi.com##center:nth-of-type(5)
+www.anime-sugoi.com##.row > .col-md-8
 www.gg-anime.com###nav-wrapper > a[target="_blank"]
 www.king-anime.com###spc
 www.nice-anime.com###M192293ScriptRootC68553
