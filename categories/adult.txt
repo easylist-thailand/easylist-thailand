@@ -26,3 +26,8 @@ xxxpostpic.org##.blockcolumn1
 xxxpostpic.org##.blockcolumn3
 xxxpostpic.org##.slidetop
 ||xxxpostpic.org/imagedata/banner/*
+anime-h.com##.row > .col-lg-12
+www.alpha-hen.com##.row > .col-sm-12 > section
+h-ani.com##div[id=speed_sponser]
+h-ani.com##div[id=sticky-ads]
+h-ani.com##.container-fluid > .row > .col-md-6
