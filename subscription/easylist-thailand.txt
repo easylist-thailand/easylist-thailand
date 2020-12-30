@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202012281404
-! Last modified: 28 Dec 2020 14:04 +0700
+! Version: 202012301730
+! Last modified: 30 Dec 2020 17:30 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -36,6 +36,11 @@ xxxpostpic.org##.blockcolumn1
 xxxpostpic.org##.blockcolumn3
 xxxpostpic.org##.slidetop
 ||xxxpostpic.org/imagedata/banner/*
+anime-h.com##.movie-container > .row > .col-lg-12 > .text-center > .text-center > a
+www.alpha-hen.com##.row > .col-sm-12 > section
+h-ani.com##div[id=speed_sponser]
+h-ani.com##div[id=sticky-ads]
+h-ani.com##.container-fluid > .row > .col-md-6
 
 ! Anime
 akibatan.com##.td-logo-wrap-full
