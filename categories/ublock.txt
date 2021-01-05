@@ -130,3 +130,4 @@ www.nung2d.com###__ads
 www.nung2d.com##.viddeo > .img_player
 www.nung2d.com##.viddeo > .ns-video-player
 www.nung2d.com##+js(ra, style, .viddeo > .video__)
+facebook.com##div[role="feed"]> div[data-pagelet^="FeedUnit"] div > span > span > a > span:upward(div[data-pagelet^="FeedUnit"])
