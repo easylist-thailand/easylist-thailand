@@ -65,3 +65,7 @@ animedd.xyz###link_h_movie_ad
 animekimi.com##.module_home_x
 www.animelolo.com##.row > center
 www.animelolo.com##.imgbanner
+anime-master.com##div.container > .row > .center_lnwphp
+anime-master.com##div[id=slider-b]
+anime-master.com##center:nth-of-type(2)
+anime-master.com##center:nth-of-type(4)
