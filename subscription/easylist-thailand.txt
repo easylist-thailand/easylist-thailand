@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202101102122
-! Last modified: 10 Jan 2021 21:22 +0700
+! Version: 202101102124
+! Last modified: 10 Jan 2021 21:24 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -593,6 +593,8 @@ donung.tv###download-vdo
 donung.tv###ads_fox_bottom
 movie2uhd.com##.ad-float
 movie2uhd.com##.widgettitle-banner + a[href]
+! 2021-01-07 https://www.037hddmovie.com
+||*d*.com/*.gif$image
 
 ! News
 blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
