@@ -77,3 +77,5 @@ donung.tv###download-vdo
 donung.tv###ads_fox_bottom
 movie2uhd.com##.ad-float
 movie2uhd.com##.widgettitle-banner + a[href]
+! www.037hddmovie.com
+||yed365days.com/wp-content/*$image
