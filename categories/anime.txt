@@ -69,3 +69,4 @@ anime-master.com##div.container > .row > .center_lnwphp
 anime-master.com##div[id=slider-b]
 anime-master.com##center:nth-of-type(2)
 anime-master.com##center:nth-of-type(4)
+anime-sugoi.com##.container > .row > .col-md-8
