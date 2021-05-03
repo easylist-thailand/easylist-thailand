@@ -1,2 +1,3 @@
 ! Annoyance
 /plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
+thairath.co.th##.e18fudrz1.css-1wc8xzy
