@@ -35,9 +35,8 @@ module EasylistGenerator
     last_modified = now.strftime '%d %b %Y %H:%M %z'
 
     header = File.read HEADER_FILE_PATH
-    header = format header, version: version, last_modified: last_modified
 
-    header
+    format header, version: version, last_modified: last_modified
   end
 
   ##
