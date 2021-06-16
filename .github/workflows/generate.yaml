@@ -43,7 +43,7 @@ jobs:
 
           git add subscription/easylist-thailand.txt
           git add subscription/ublock.txt
-          git commit -S -m "$COMMIT_MSG"
+          git commit -m "$COMMIT_MSG"
       - name: Push subscription file
         uses: ad-m/github-push-action@master
         with:
