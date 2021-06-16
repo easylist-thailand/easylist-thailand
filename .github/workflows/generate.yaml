@@ -35,9 +35,10 @@ jobs:
           AUTHOR_NAME="$(git log -1 $GITHUB_SHA --pretty="%aN")"
 
           COMMIT_MSG=$(cat <<- END
-            🍱 Auto-generate subscription by workflow $GITHUB_RUN_ID
+            🍱 Auto-generate subscription by workflow run no. $GITHUB_RUN_NUMBER
 
-            Co-Authored-By: $AUTHOR_NAME <$AUTHOR_EMAIL>
+
+            Co-authored-by: $AUTHOR_NAME <$AUTHOR_EMAIL>
           END
           )
 
