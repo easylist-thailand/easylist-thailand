@@ -1,0 +1,51 @@
+name: Generate
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    name: Generate and update subscription file
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        ruby-version: ['3.0']
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+          bundler-cache: true
+      - name: Generate subscription file
+        run: bundle exec rake
+      - name: Commit subscription file
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          AUTHOR_EMAIL="$(git log -1 $GITHUB_SHA --pretty="%cE")"
+          AUTHOR_NAME="$(git log -1 $GITHUB_SHA --pretty="%aN")"
+
+          COMMIT_MSG=$(cat <<- END
+            🍱 Auto-generate subscription by workflow $GITHUB_RUN_ID
+
+            Co-Authored-By: $AUTHOR_NAME <$AUTHOR_EMAIL>
+          END
+          )
+
+          git add subscription/easylist-thailand.txt
+          git add subscription/ublock.txt
+          git commit -Sm "$COMMIT_MSG"
+      - name: Push subscription file
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
