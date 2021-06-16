@@ -30,21 +30,9 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-
-          AUTHOR_EMAIL="$(git log -1 $GITHUB_SHA --pretty="%cE")"
-          AUTHOR_NAME="$(git log -1 $GITHUB_SHA --pretty="%aN")"
-
-          COMMIT_MSG=$(cat <<- END
-            🍱 Auto-generate subscription by workflow run no. $GITHUB_RUN_NUMBER
-
-
-            Co-authored-by: $AUTHOR_NAME <$AUTHOR_EMAIL>
-          END
-          )
-
           git add subscription/easylist-thailand.txt
           git add subscription/ublock.txt
-          git commit -m "$COMMIT_MSG"
+          git commit -m "🍱 Auto-generate subscription by workflow run no. $GITHUB_RUN_NUMBER"
       - name: Push subscription file
         uses: ad-m/github-push-action@master
         with:
