@@ -3,3 +3,9 @@ dedbit.com##div[id="content"] div[align="center"] > a:first-of-type
 nongpink.com##.outer > div[style^="width:814px;"]
 tt-torrent.com###notification + .row > center
 tt-torrent.com###torrent_download .row .small-12:nth-of-type(1)
+
+! Siambit
+##[href="https://www.ptgame24.com/"]
+##[href="https://www.55xo.co/"]
+##[href="https://www.kingkongxo.com/"]
+##[href="https://lnw.lol/"]
