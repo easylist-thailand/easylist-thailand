@@ -35,6 +35,7 @@ h-ani.com##.container-fluid > .row > .col-md-6
 
 ! https://xn--82c0bxcybxc2b.com
 ||xn--82c0bxcybxc2b.com/jab-ads/
+xn--82c0bxcybxc2b.com###main-nav + center > br
 
 ! https://xn--72czpj1fd3b9a3a8g3d.com
 ||xn--72czpj1fd3b9a3a8g3d.com/doo-ads/
