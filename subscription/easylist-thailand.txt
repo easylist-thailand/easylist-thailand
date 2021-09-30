@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202109302245
-! Last modified: 30 Sep 2021 22:45 +0700
+! Version: 202109302255
+! Last modified: 30 Sep 2021 22:55 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -49,6 +49,14 @@ xn--82c0bxcybxc2b.com###main-nav + center > br
 
 ! https://xn--72czpj1fd3b9a3a8g3d.com
 ||xn--72czpj1fd3b9a3a8g3d.com/doo-ads/
+
+! https://nungxthai.net
+nungxthai.net###slidel
+nungxthai.net###slider
+nungxthai.net###slider + center
+nungxthai.net##[id*="ads"]
+nungxthai.net##[id*="ads"] + center
+nungxthai.net###main .loading
 
 ! Anime
 akibatan.com##.td-logo-wrap-full
