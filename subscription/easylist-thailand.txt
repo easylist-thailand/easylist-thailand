@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202109302255
-! Last modified: 30 Sep 2021 22:55 +0700
+! Version: 202110222255
+! Last modified: 22 Oct 2021 22:55 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -538,6 +538,44 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||silkspan.com
 ||thai-iphone.com
 
+! Pantip fake websites
+||accountantamsterdam.net
+||achivadolimni.com
+||agentogel.info
+||ahvaz-anesthesia.com
+||albioncollege.info
+||altexplorer.info
+||amarantinefarms.com
+||brainmindsociety.com
+||chilltalks.org
+||corecovers.info
+||dana-b7r.com
+||dev.piptrip.com
+||ejppayment.com
+||empirecity.today
+||foxandmusic.com
+||groundloop.info
+||hillaforklifts.com
+||jaredkschreiber.com
+||kabor.info
+||kirawhite.com
+||lakeoffer.com
+||lxtsir.com
+||medbharat.com
+||moonstalks.com
+||piptrip.com
+||realityprotocol.com
+||redrose-samp.info
+||reinhard-winter.info
+||reponses.com
+||saleega.com
+||samsautomation.com
+||vapa.info
+||webcreative.cc
+||westnileyouthcenter.info
+||wetterkroatien.info
+||wisefacts.info
+||womankind.info
 ! Movie
 newmovie-hd.com###main article p[align="center"]
 newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
