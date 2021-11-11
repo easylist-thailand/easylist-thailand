@@ -3,3 +3,8 @@ seriesubthai.co###adotai-survey-frame-container
 seriesubthai.co###adspc_tags
 seriesubthai.co###taboola
 utaseries.com##[data-wpel-link^="external"]
+hereseries.com##.naqw-type-custom_code.naqw-container
+hereseries.com##.ai_widget.widget.primary-sidebar-widget.w-t.h-ni
+hereseries.com##.code-block-1.code-block
+hereseries.com###ads_fox_bottom
+hereseries.com##.code-block-2.code-block
