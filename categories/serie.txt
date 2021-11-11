@@ -3,3 +3,5 @@ seriesubthai.co###adotai-survey-frame-container
 seriesubthai.co###adspc_tags
 seriesubthai.co###taboola
 utaseries.com##[data-wpel-link^="external"]
+newseries-hd.com##.popup.adt
+newseries-hd.com##div.adcen:nth-of-type(6)
