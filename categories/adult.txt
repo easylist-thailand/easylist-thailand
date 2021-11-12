@@ -47,3 +47,14 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+
+! 2021-11-12 https://xn--12cl7cj4a8c1bl5l7c.com
+xn--12cl7cj4a8c1bl5l7c.com###adsplayer
+xn--12cl7cj4a8c1bl5l7c.com###page > center
+xn--12cl7cj4a8c1bl5l7c.com###slidel
+xn--12cl7cj4a8c1bl5l7c.com###slider
+xn--12cl7cj4a8c1bl5l7c.com##.happy-player-beside.col-md-3.col-12
+xn--12cl7cj4a8c1bl5l7c.com##.happy-player-under.d-md-block.d-none
+xn--12cl7cj4a8c1bl5l7c.com##.happy-section
+##[href="https://kingdom66.com/"]
+##[href="https://hydra888.com/"]
