@@ -47,3 +47,14 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+
+! https://จับเย็ด.com
+##[href="https://newyork888.com"]
+##[href="https://www.ufazeed.com/"]
+##[href="https://brazil999.com"]
+##[href="https://lockdown168.com"]
+xn--82cyr6aze8d4b.com##.pop-footer
+xn--82cyr6aze8d4b.com##.happy-under-player
+xn--82cyr6aze8d4b.com##.close-l.pop-close
+xn--82cyr6aze8d4b.com##.close-r.pop-close
+xn--82cyr6aze8d4b.com##.a-player
