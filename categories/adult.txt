@@ -47,3 +47,12 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+
+! https://xn--72ca2bsl7gxbd4m7c.com
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"] 
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"]
+||xn--72ca2bsl7gxbd4m7c.com/wp-content/uploads/2020/04/closed.png$image
+##[href="https://kingdom66.com"]
+xn--72ca2bsl7gxbd4m7c.com##.insad_close
+octopusbanner.com##[href^="https://www.ad-pic.com/"]
+xn--72ca2bsl7gxbd4m7c.com##center.adcen:nth-of-type(9)
