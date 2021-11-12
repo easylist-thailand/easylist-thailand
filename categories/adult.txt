@@ -47,3 +47,7 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+
+! https://xn--12cln7c7aya4cs8a9b5gtd3c.com
+xn--12cln7c7aya4cs8a9b5gtd3c.com##.adimg
+xn--12cln7c7aya4cs8a9b5gtd3c.com###columns\ video > center
