@@ -47,3 +47,13 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+! https://xn--72c9abh1f8ad1lzc.com
+xn--72c9abh1f8ad1lzc.com##[href="https://hotgraph88.com"]
+xn--72c9abh1f8ad1lzc.com##[href="https://ufazeed.com/"]
+xn--72c9abh1f8ad1lzc.com##[href="https://kingdom66.com"]
+xn--72c9abh1f8ad1lzc.com##.insad_l_close
+xn--72c9abh1f8ad1lzc.com##.insad_r_close
+xn--72c9abh1f8ad1lzc.com##body > .adcen
+xn--72c9abh1f8ad1lzc.com##.adimg
+xn--72c9abh1f8ad1lzc.com###contentx > .adcen
+xn--72c9abh1f8ad1lzc.com##.insad_close
