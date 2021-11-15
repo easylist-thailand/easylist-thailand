@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202111152253
-! Last modified: 15 Nov 2021 22:53 +0700
+! Version: 202111152255
+! Last modified: 15 Nov 2021 22:55 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -749,6 +749,11 @@ seriesubthai.co###adotai-survey-frame-container
 seriesubthai.co###adspc_tags
 seriesubthai.co###taboola
 utaseries.com##[data-wpel-link^="external"]
+hereseries.com##.naqw-type-custom_code.naqw-container
+hereseries.com##.ai_widget.widget.primary-sidebar-widget.w-t.h-ni
+hereseries.com##.code-block-1.code-block
+hereseries.com###ads_fox_bottom
+hereseries.com##.code-block-2.code-block
 
 ! Sport
 baanpolballs.com###ads
