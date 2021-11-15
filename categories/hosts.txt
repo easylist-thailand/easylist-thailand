@@ -38,7 +38,7 @@
 ||crwdcntrl.net
 ||cryptobrowser.site
 ||csi.gstatic.com
-||cxense.com
+||cxense.com$third-party,domain=~tn.com.ar
 ||d-stats.com
 ||dtscout.com
 ||effectivemeasure.net
@@ -145,3 +145,4 @@
 ||yu0123456.com
 ||zemanta.com
 ||moviefree365.com
+||pichub.tk
