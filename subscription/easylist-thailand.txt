@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202111152255
-! Last modified: 15 Nov 2021 22:55 +0700
+! Version: 202111152258
+! Last modified: 15 Nov 2021 22:58 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -532,6 +532,7 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||yengo.com
 ||yu0123456.com
 ||zemanta.com
+||pichub.tk
 
 ! Malicious Site
 ||happylukebet.com
