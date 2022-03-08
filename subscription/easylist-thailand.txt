@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202111152315
-! Last modified: 15 Nov 2021 23:15 +0700
+! Version: 202203090043
+! Last modified: 09 Mar 2022 00:43 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -137,6 +137,7 @@ anime-sugoi.com##center:nth-of-type(5)
 
 ! Annoyance
 /plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
+mustplay.in.th,playulti.com##.alert.cookiealert
 thairath.co.th##.e18fudrz1.css-1wc8xzy
 vroom.truevirtualworld.com##.card-cookie
 www.punpro.com##div[class^="CookieSession"]
@@ -323,6 +324,7 @@ gamegeek.in.th##.wppaszone
 gamegeek.in.th##div[data-title="Home popup"]
 gamemonday.com###my-welcome-message
 gamemonday.com##.ads-bottom
+gamingdose.com##.elementor-widget-wp-widget-advads_ad_widget
 jokergameth.com###contentMain > br
 jokergameth.com###contentMain > div[align="center"]
 m.online-station.net###leaderboard_bottom.bottom_banner
@@ -336,6 +338,7 @@ mustplay.in.th,playulti.com###bgyoutube
 mustplay.in.th,playulti.com##.cover_preload
 mustplay.in.th,playulti.com##.preloader
 mustplay.in.th,playulti.com##.promote
+mustplay.in.th,playulti.com##div[class^="promote_"]
 online-station.net###ads-overlay
 online-station.net###ads-preload-popup
 online-station.net###close-preload
@@ -548,16 +551,18 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||albioncollege.info
 ||altexplorer.info
 ||amarantinefarms.com
+||bestpaintballgun.info
 ||brainmindsociety.com
 ||chilltalks.org
 ||corecovers.info
 ||dana-b7r.com
-||dev.piptrip.com
 ||ejppayment.com
+||embroideryshop.com
 ||empirecity.today
 ||foxandmusic.com
 ||groundloop.info
 ||hillaforklifts.com
+||ingridsherman.com
 ||jaredkschreiber.com
 ||kabor.info
 ||kirawhite.com
@@ -566,13 +571,18 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||medbharat.com
 ||moonstalks.com
 ||piptrip.com
+||qirinedu.com
+||quizas-slachtoffers.fun
 ||realityprotocol.com
 ||redrose-samp.info
 ||reinhard-winter.info
+||rentaphantom.info
 ||reponses.com
+||rishigoutam.com
 ||saleega.com
 ||samsautomation.com
 ||vapa.info
+||verbal.com
 ||webcreative.cc
 ||westnileyouthcenter.info
 ||wetterkroatien.info
@@ -667,13 +677,14 @@ marketingoops.com###popup_countdown
 marketingoops.com##div[id^="itro_"]
 techmoblog.com###cboxWrapper
 techtalkthai.com###check-also-box
+techtalkthai.com##.e3lan-below_header
 techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
 techtalkthai.com##.wrapper-outer .background-cover
-techtalkthai.com##.e3lan-below_header
-||techtalkthai.com/wp-content/*banner*$image
 thairath.co.th##.ad-box
 thairath.co.th##.container .row .ads
 thairath.co.th##div[tabindex][style*="z-index"]
+thaivisa.com###header-friends
+thaivisa.com###home-friends-1
 thetechr.com##.jinda-content-block
 thetechr.com##.jinda-facebook-like-box
 thetechr.com##.jinda-overlay-background
@@ -683,9 +694,9 @@ tnews.co.th###myModal
 tnews.co.th###uniads
 tnews.co.th##.in.fade.modal-backdrop
 tnews.co.th##.modal
-thaivisa.com###home-friends-1
-thaivisa.com###header-friends
-
+today.line.me##.articleContent div[class^="midAdModule"]
+today.line.me##.theContainer.foryou
+||techtalkthai.com/wp-content/*banner*$image
 ! Novel
 goshujin.tk###banner
 www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
@@ -848,6 +859,8 @@ specphone.com##.td-more-articles-box
 specphone.com##div[id^=div-gpt-ad]
 techmoblog.com###cboxOverlay
 techmoblog.com##div[id^="ads_div_"]
+techsauce.co##.icon-bar-mb
+techsauce.co##.view-side-banner
 techxcite.com###adsMiniUnder
 techxcite.com###col_right .ads
 techxcite.com###skin-left
