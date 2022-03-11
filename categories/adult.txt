@@ -47,3 +47,8 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+
+! https://หนังโป๊เด็ด.com
+xn--72c0aarl7gxb5hqa7c4a.com##body > .adcen
+xn--72c0aarl7gxb5hqa7c4a.com##a.adv > .adsss
+xn--72c0aarl7gxb5hqa7c4a.com###post-15725 > center.adcen > a[href^="/warp/ref.php"] > .adsss
