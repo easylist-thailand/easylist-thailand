@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202205170120
-! Last modified: 17 May 2022 01:20 +0700
+! Version: 202205170124
+! Last modified: 17 May 2022 01:24 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -70,7 +70,7 @@ xn--12cl7cj4a8c1bl5l7c.com##.happy-section
 ##[href="https://hydra888.com/"]
 
 ! https://xn--72ca2bsl7gxbd4m7c.com
-##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"] 
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"]
 ##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"]
 ||xn--72ca2bsl7gxbd4m7c.com/wp-content/uploads/2020/04/closed.png$image
 ##[href="https://kingdom66.com"]
@@ -89,6 +89,9 @@ xn--72c9abh1f8ad1lzc.com##body > .adcen
 xn--72c9abh1f8ad1lzc.com##.adimg
 xn--72c9abh1f8ad1lzc.com###contentx > .adcen
 xn--72c9abh1f8ad1lzc.com##.insad_close
+
+! https://hanimesubth.com/
+hanimesubth.com##misa-content .iw_header + .row .img-ads
 
 ! Anime
 akibatan.com##.td-logo-wrap-full
