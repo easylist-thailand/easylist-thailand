@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202205170043
-! Last modified: 17 May 2022 00:43 +0700
+! Version: 202205170049
+! Last modified: 17 May 2022 00:49 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -57,6 +57,17 @@ nungxthai.net###slider + center
 nungxthai.net##[id*="ads"]
 nungxthai.net##[id*="ads"] + center
 nungxthai.net###main .loading
+
+! https://xn--72ca2bsl7gxbd4m7c.com
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"] 
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"]
+||xn--72ca2bsl7gxbd4m7c.com/wp-content/uploads/2020/04/closed.png$image
+##[href="https://kingdom66.com"]
+xn--72ca2bsl7gxbd4m7c.com##.insad_close
+octopusbanner.com##[href^="https://www.ad-pic.com/"]
+xn--72ca2bsl7gxbd4m7c.com##center.adcen:nth-of-type(9)
+xn--72ca2bsl7gxbd4m7c.com##.column.colophon-message-body > center > a.adv > .adimg
+
 ! https://xn--72c9abh1f8ad1lzc.com
 xn--72c9abh1f8ad1lzc.com##[href="https://hotgraph88.com"]
 xn--72c9abh1f8ad1lzc.com##[href="https://ufazeed.com/"]
