@@ -58,3 +58,24 @@ xn--12cl7cj4a8c1bl5l7c.com##.happy-player-under.d-md-block.d-none
 xn--12cl7cj4a8c1bl5l7c.com##.happy-section
 ##[href="https://kingdom66.com/"]
 ##[href="https://hydra888.com/"]
+
+! https://xn--72ca2bsl7gxbd4m7c.com
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"] 
+##[href^="https://xn--72ca2bsl7gxbd4m7c.com/vid/ref.php"]
+||xn--72ca2bsl7gxbd4m7c.com/wp-content/uploads/2020/04/closed.png$image
+##[href="https://kingdom66.com"]
+xn--72ca2bsl7gxbd4m7c.com##.insad_close
+octopusbanner.com##[href^="https://www.ad-pic.com/"]
+xn--72ca2bsl7gxbd4m7c.com##center.adcen:nth-of-type(9)
+xn--72ca2bsl7gxbd4m7c.com##.column.colophon-message-body > center > a.adv > .adimg
+
+! https://xn--72c9abh1f8ad1lzc.com
+xn--72c9abh1f8ad1lzc.com##[href="https://hotgraph88.com"]
+xn--72c9abh1f8ad1lzc.com##[href="https://ufazeed.com/"]
+xn--72c9abh1f8ad1lzc.com##[href="https://kingdom66.com"]
+xn--72c9abh1f8ad1lzc.com##.insad_l_close
+xn--72c9abh1f8ad1lzc.com##.insad_r_close
+xn--72c9abh1f8ad1lzc.com##body > .adcen
+xn--72c9abh1f8ad1lzc.com##.adimg
+xn--72c9abh1f8ad1lzc.com###contentx > .adcen
+xn--72c9abh1f8ad1lzc.com##.insad_close

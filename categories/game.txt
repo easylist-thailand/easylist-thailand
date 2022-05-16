@@ -14,6 +14,7 @@ gamegeek.in.th##.wppaszone
 gamegeek.in.th##div[data-title="Home popup"]
 gamemonday.com###my-welcome-message
 gamemonday.com##.ads-bottom
+gamingdose.com##.elementor-widget-wp-widget-advads_ad_widget
 jokergameth.com###contentMain > br
 jokergameth.com###contentMain > div[align="center"]
 m.online-station.net###leaderboard_bottom.bottom_banner
@@ -27,6 +28,7 @@ mustplay.in.th,playulti.com###bgyoutube
 mustplay.in.th,playulti.com##.cover_preload
 mustplay.in.th,playulti.com##.preloader
 mustplay.in.th,playulti.com##.promote
+mustplay.in.th,playulti.com##div[class^="promote_"]
 online-station.net###ads-overlay
 online-station.net###ads-preload-popup
 online-station.net###close-preload

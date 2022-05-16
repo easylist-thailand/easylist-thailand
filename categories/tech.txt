@@ -11,6 +11,8 @@ specphone.com##.td-more-articles-box
 specphone.com##div[id^=div-gpt-ad]
 techmoblog.com###cboxOverlay
 techmoblog.com##div[id^="ads_div_"]
+techsauce.co##.icon-bar-mb
+techsauce.co##.view-side-banner
 techxcite.com###adsMiniUnder
 techxcite.com###col_right .ads
 techxcite.com###skin-left
