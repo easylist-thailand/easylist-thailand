@@ -95,3 +95,10 @@ movie2uhd.com##.widgettitle-banner + a[href]
 
 ! nung-sub.com
 ||nung-sub.com/images/banners/
+
+! movie007hd.com
+movie007hd.com##.ads-above-single-player
+movie007hd.com##.ads-above-single
+movie007hd.com##[class*="ds-popup"]
+msa-video.com###close_ads
+||baner.msa-video.com
