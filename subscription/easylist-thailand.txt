@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202208250135
-! Last modified: 25 Aug 2022 01:35 +0700
+! Version: 202209032227
+! Last modified: 03 Sep 2022 22:27 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -342,6 +342,8 @@ upic.me##div[id^="simplemodal"]
 ||shopee.co.th/__t__$xmlhttprequest
 ||shopee.co.th/userstats_record$xmlhttprequest
 ||shopeemobile.com/th/tr$xmlhttprequest
+
+||lucky135.com
 
 ! Game
 compgamer.com##.backgroundPopup
@@ -720,6 +722,13 @@ movie2uhd.com##.widgettitle-banner + a[href]
 
 ! nung-sub.com
 ||nung-sub.com/images/banners/
+
+! movie007hd.com
+movie007hd.com##.ads-above-single-player
+movie007hd.com##.ads-above-single
+movie007hd.com##[class*="ds-popup"]
+msa-video.com###close_ads
+||baner.msa-video.com
 
 ! News
 blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
