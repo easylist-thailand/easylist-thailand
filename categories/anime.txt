@@ -74,3 +74,10 @@ anime-sugoi.com##.container > .row > .col-md-8
 anime-sugoi.com##center:nth-of-type(3)
 anime-sugoi.com##.container > .row > a
 anime-sugoi.com##center:nth-of-type(5)
+
+anime-subthai.net##.b-ads
+anime-subthai.net##.img-ads
+anime-subthai.net##.ads-banners
+anime-subthai.net##.ads-banner
+anime-subthai.net##[title^=banner]
+fembeq.com##+js(aopr, open)
