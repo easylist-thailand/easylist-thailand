@@ -102,3 +102,13 @@ movie007hd.com##.ads-above-single
 movie007hd.com##[class*="ds-popup"]
 msa-video.com###close_ads
 ||baner.msa-video.com
+
+! movie87hd.com
+||movie87hd.com/*.gif$image
+movie87hd.com##[href^="https://line.me/"]
+movie87hd.com###video_overlay
+movie87hd.com##[style^="position:absolute; right:10px; top:10px; width: 40px; height: 40px;"]
+movie87hd.com###VideoPlayer > div > div > div
+movie87hd.com###VideoPlayer > div
+movie87hd.com##.signup_button
+movie87hd.com##.new-banner_side-banner_r
