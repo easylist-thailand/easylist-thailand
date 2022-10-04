@@ -112,3 +112,4 @@ movie87hd.com###VideoPlayer > div > div > div
 movie87hd.com###VideoPlayer > div
 movie87hd.com##.signup_button
 movie87hd.com##.new-banner_side-banner_r
+movie87hd.com##+js(set, adSettings, [])
