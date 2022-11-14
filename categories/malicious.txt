@@ -3,7 +3,12 @@
 ||silkspan.com
 ||thai-iphone.com
 
-! Pantip fake websites
+! Fake Pantip IPs/websites
+46.8.158.80
+46.8.158.94
+46.8.158.101
+109.248.59.27
+195.133.60.89
 ||accountantamsterdam.net
 ||achivadolimni.com
 ||agentogel.info
