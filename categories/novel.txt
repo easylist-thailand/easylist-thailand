@@ -4,3 +4,17 @@ www.thaiboyslove.com###main_content_section > table:nth-of-type(1)
 www.thaiboyslove.com###main_content_section > table:nth-of-type(2)
 www.thaiboyslove.com##body > center:nth-of-type(2)
 ||www.thaiboyslove.com/webboard/banner/*$image
+
+oremanga.net##.header-ads-section
+murim-manga.com##.dessert-frame > center
+mafia-manga.com##.w-bnn-left.wbnn
+mafia-manga.com##.w-bnn-right.wbnn
+mafia-manga.com##.w-bnn-bottom.wbnn
+mafia-manga.com##.dessert-frame
+ped-manga.com##.w-bnn-left.wbnn
+ped-manga.com##.w-bnn-right.wbnn
+ped-manga.com##.w-bnn-bottom.wbnn
+ped-manga.com##.dessert-frame > center
+dokimori.com##.mt-2.text-center.col-md-12
+rose-manga.com##.ads
+rose-manga.com##.dessert-frame > center
