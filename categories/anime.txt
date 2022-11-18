@@ -81,3 +81,13 @@ anime-subthai.net##.ads-banners
 anime-subthai.net##.ads-banner
 anime-subthai.net##[title^=banner]
 fembeq.com##+js(aopr, open)
+
+xn--l3ckshl0dxa4an6azf.com##.anime-side
+xn--l3ckshl0dxa4an6azf.com##.ad-side-player
+xn--l3ckshl0dxa4an6azf.com##.i-player-ad
+anime-subth.net##.b-ads
+anime-subth.net##.su-tabs-pane-open.tabindex-0.su-clearfix.su-tabs-pane > center
+anime-subth.net##div.post-body > center > p
+fast-animes.com###cat300_ads2
+fast-animes.com###cat300_ads1
+fast-animes.com##div.row:nth-of-type(2)
