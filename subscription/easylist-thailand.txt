@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202211182040
-! Last modified: 18 Nov 2022 20:40 +0700
+! Version: 202304051711
+! Last modified: 05 Apr 2023 17:11 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -521,7 +521,6 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||oilchange.website
 ||onclasrv.com
 ||onclickads.net
-||onesignal.com
 ||openx.notebookspec.com
 ||openxmarket.asia
 ||padsdel.com
