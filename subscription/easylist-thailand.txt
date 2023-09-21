@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202304051711
-! Last modified: 05 Apr 2023 17:11 +0700
+! Version: 202309212234
+! Last modified: 21 Sep 2023 22:34 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -1167,6 +1167,9 @@ movie87hd.com###VideoPlayer > div
 movie87hd.com##.signup_button
 movie87hd.com##.new-banner_side-banner_r
 movie87hd.com##+js(set, adSettings, [])
+
+! 447hd.com
+447hd.com###ads_singlem_top
 
 ! News
 blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
