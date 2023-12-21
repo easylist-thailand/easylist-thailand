@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202309212315
-! Last modified: 21 Sep 2023 23:15 +0700
+! Version: 202312211916
+! Last modified: 21 Dec 2023 19:16 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -551,7 +551,6 @@ thisisgamethailand.com,tigthai.com##.mod_banner_top
 ||sales-frontier.com
 ||scorecardresearch.com
 ||serving-sys.com
-||shinobi.jp
 ||simba-digital.com
 ||socdm.com
 ||stat.matichon.co.th
@@ -1312,6 +1311,7 @@ soccersuck.com##.sherer
 soccersuck.com##.text-center.txt-color-white.font-md
 soccersuck.com##[class^="adv"]
 soccersuck.com##[rel^="nofollow"]
+soccersuck.com##.suckvideo_panel
 xn--12cf0e9alaj8at1avvw8lrh.com###bar_left
 xn--12cf0e9alaj8at1avvw8lrh.com###bar_left > div:nth-of-type(2)
 xn--12cf0e9alaj8at1avvw8lrh.com###bar_right
@@ -1388,6 +1388,9 @@ thaimobilecenter.com##iframe[src^="../includes/inc_banner"]
 ||techxcite.com/truehitsstat.php?
 ||thaimobilecenter.com/colorbox^
 ||thetechr.com/*/jinda-facebook-lightbox/*
+
+# wordle.net
+wordle.net##.elementor-widget-container a[href*="sbobet.ca"]
 
 ! Widget
 ##iframe[src*="wink.in.th"]
