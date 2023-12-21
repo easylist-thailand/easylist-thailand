@@ -36,3 +36,6 @@ thaimobilecenter.com##iframe[src^="../includes/inc_banner"]
 ||techxcite.com/truehitsstat.php?
 ||thaimobilecenter.com/colorbox^
 ||thetechr.com/*/jinda-facebook-lightbox/*
+
+# wordle.net
+wordle.net##.elementor-widget-container a[href*="sbobet.ca"]
