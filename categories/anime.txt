@@ -81,3 +81,7 @@ anime-subthai.net##.ads-banners
 anime-subthai.net##.ads-banner
 anime-subthai.net##[title^=banner]
 fembeq.com##+js(aopr, open)
+
+manga168.com##.slider-ads
+manga168.com##.dessert-frame
+manga168.com###ads_fox_bottom
