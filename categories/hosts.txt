@@ -20,7 +20,6 @@
 ||adtplatform.com
 ||anonymousdemographics.com
 ||app-measurement.com
-||appsflyer.com
 ||areyouahuman.com
 ||atdmt.com
 ||bluekai.com
