@@ -124,3 +124,5 @@ mv-hd.com##.container a[href^="/link_to.php"]
 ! 928hd.com
 928hd.com##.ds-popup
 928hd.com##.ads-above-single
+928hd.com##.ads-above-single-player
+928hd.com##.pre-bnn-set
