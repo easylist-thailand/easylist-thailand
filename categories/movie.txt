@@ -137,3 +137,6 @@ nungkai.com##.adcen
 subthai.tv###ads_1
 subthai.tv###ads_
 subthai.tv##.fixspot-bottom
+
+! nungde.com
+||nungde.com/wp-content/uploads/*/*.gif
