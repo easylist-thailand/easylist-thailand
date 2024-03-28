@@ -135,3 +135,6 @@ www.nung2d.com##+js(ra, style, .viddeo > .video__)
 
 ! nungkai.com
 nungkai.com##+js(set-attr, body, oncontextmenu, '')
+
+! subthai.tv
+subthai.tv##+js(nano-sib, กดเพื่อดูหนัง, *)
