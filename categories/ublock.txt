@@ -132,3 +132,6 @@ www.nung2d.com###__ads
 www.nung2d.com##.viddeo > .img_player
 www.nung2d.com##.viddeo > .ns-video-player
 www.nung2d.com##+js(ra, style, .viddeo > .video__)
+
+! nungkai.com
+nungkai.com##+js(set-attr, body, oncontextmenu, '')

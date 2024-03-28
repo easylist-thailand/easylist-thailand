@@ -126,3 +126,9 @@ mv-hd.com##.container a[href^="/link_to.php"]
 928hd.com##.ads-above-single
 928hd.com##.ads-above-single-player
 928hd.com##.pre-bnn-set
+
+! nungkai.com
+nungkai.com##.ad
+nungkai.com##.adhl
+nungkai.com##.adbr
+nungkai.com##.adcen
