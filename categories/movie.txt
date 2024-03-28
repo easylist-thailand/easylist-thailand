@@ -132,3 +132,8 @@ nungkai.com##.ad
 nungkai.com##.adhl
 nungkai.com##.adbr
 nungkai.com##.adcen
+
+! subthai.tv
+subthai.tv###ads_1
+subthai.tv###ads_
+subthai.tv##.fixspot-bottom
