@@ -4,3 +4,5 @@
 ||shopee.co.th/__t__$xmlhttprequest
 ||shopee.co.th/userstats_record$xmlhttprequest
 ||shopeemobile.com/th/tr$xmlhttprequest
+
+shopee.co.th##[data-sqe="ad"]:upward([data-sqe="item"])
