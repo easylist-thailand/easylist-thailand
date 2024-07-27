@@ -4,3 +4,6 @@
 ||shopee.co.th/__t__$xmlhttprequest
 ||shopee.co.th/userstats_record$xmlhttprequest
 ||shopeemobile.com/th/tr$xmlhttprequest
+
+! shopee item-based ads
+shopee.co.th##:has(> .shopee_ic img[loading="lazy"] ~ div.right-0 > .text-white)
