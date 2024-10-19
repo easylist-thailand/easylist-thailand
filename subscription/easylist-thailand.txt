@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202410200237
-! Last modified: 20 Oct 2024 02:37 +0700
+! Version: 202410200245
+! Last modified: 20 Oct 2024 02:45 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -357,9 +357,10 @@ upic.me##div[id^="simplemodal"]
 ! E-Commerce
 ||akamaihd.net/shopee/*/*TrackingRules$script,domain=shopee.co.th
 ||akamaihd.net/shopee/*/TrackingRules$script,domain=shopee.co.th
-||shopee.co.th/__t__$xmlhttprequest
+||shopee.co.th/__t__$xmlhttprequest,domain=shopee.co.th,redirect=1x1.gif
 ||shopee.co.th/userstats_record$xmlhttprequest
 ||shopeemobile.com/th/tr$xmlhttprequest
+||tracking.shopee.co.th^$xmlhttprequest,domain=shopee.co.th,redirect=1x1.gif
 
 ||lucky135.com
 
