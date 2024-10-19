@@ -37,40 +37,6 @@ soccersuck.com##.text-center.txt-color-white.font-md
 soccersuck.com##[class^="adv"]
 soccersuck.com##[rel^="nofollow"]
 soccersuck.com##.suckvideo_panel
-xn--12cf0e9alaj8at1avvw8lrh.com###bar_left
-xn--12cf0e9alaj8at1avvw8lrh.com###bar_left > div:nth-of-type(2)
-xn--12cf0e9alaj8at1avvw8lrh.com###bar_right
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(3)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(6)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(7)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(8)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(9)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-left > .banner:nth-of-type(10)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(3)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(5)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(6)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(7)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(8)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(9)
-xn--12cf0e9alaj8at1avvw8lrh.com###content-right > .banner:nth-of-type(10)
-xn--12cf0e9alaj8at1avvw8lrh.com###imghead
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(1)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(2)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(4)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(11)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(12)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(13)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(14)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(15)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(16)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(18)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(19)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(20)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(21)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(23)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(24)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(26)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(27)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(29)
-xn--12cf0e9alaj8at1avvw8lrh.com##.banner:nth-of-type(30)
+xn--12cf0e9alaj8at1avvw8lrh.com##.banner
+xn--12cf0e9alaj8at1avvw8lrh.com###div_ad_float
 ||soccersuck.com/img/banner

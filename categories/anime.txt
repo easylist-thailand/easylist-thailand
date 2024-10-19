@@ -86,4 +86,6 @@ manga168.com##.slider-ads
 manga168.com##.dessert-frame
 manga168.com###ads_fox_bottom
 
-ranker-manga.com##.header-ads-section
+||image.cdend.com$image,domain=ranker-manga.com
+
+||image7.kingsmanga.net/00/00/gclub2.jpg$image,1p
