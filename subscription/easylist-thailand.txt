@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202410200231
-! Last modified: 20 Oct 2024 02:31 +0700
+! Version: 202410200237
+! Last modified: 20 Oct 2024 02:37 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -185,6 +185,8 @@ manga168.com##.dessert-frame
 manga168.com###ads_fox_bottom
 
 ||image.cdend.com$image,domain=ranker-manga.com
+
+||image7.kingsmanga.net/00/00/gclub2.jpg$image,1p
 
 ! Annoyance
 /plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
