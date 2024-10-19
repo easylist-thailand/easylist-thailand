@@ -140,3 +140,6 @@ subthai.tv##.fixspot-bottom
 
 ! nungde.com
 ||nungde.com/wp-content/uploads/*/*.gif
+
+! seriesmy.today
+www.seriesmy.today##.widget_content
