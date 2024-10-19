@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202410200209
-! Last modified: 20 Oct 2024 02:09 +0700
+! Version: 202410200231
+! Last modified: 20 Oct 2024 02:31 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -1197,6 +1197,9 @@ subthai.tv##.fixspot-bottom
 
 ! nungde.com
 ||nungde.com/wp-content/uploads/*/*.gif
+
+! seriesmy.today
+www.seriesmy.today##.widget_content
 
 ! News
 blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
