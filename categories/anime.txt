@@ -89,3 +89,8 @@ manga168.com###ads_fox_bottom
 ||image.cdend.com$image,domain=ranker-manga.com
 
 ||image7.kingsmanga.net/00/00/gclub2.jpg$image,1p
+
+anime-sugoi.com##div.container > .row > .center_lnwphp
+animeyuzu.com##.code-block-1.code-block
+animeyuzu.com##.animekimi-banner
+animegojo.com##.bannerrow
