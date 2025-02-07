@@ -149,9 +149,4 @@ www.seriesmy.today##.widget_content
 ||037hdmovie.com/ads^
 ||rsc.cdn77.org/videos/ads-$media,domain=leoplayer7.com
 ||upfastfile.com/upload/$media,domain=leoplayer7.com
-037hdmovie.com###ads-index
-037hdmovie.com###ads-sidebar
-037hdmovie.com###ads-sidebar-single-bottom
-037hdmovie.com###ads-sidebar-single-top
-037hdmovie.com###ads-single
-037hdmovie.com###ads-bottom-player
+037hdmovie.com##[id^="ads"]
