@@ -150,3 +150,14 @@ www.seriesmy.today##.widget_content
 ||rsc.cdn77.org/videos/ads-$media,domain=leoplayer7.com
 ||upfastfile.com/upload/$media,domain=leoplayer7.com
 037hdmovie.com##[id^="ads"]
+
+! 037hdmoviez
+www.037hdmoviez.com###ads-index
+www.037hdmoviez.com###ads-popup
+www.037hdmoviez.com###ads-sidebar
+www.037hdmoviez.com###ads-single
+www.037hdmoviez.com###ads-sidebar-single-top
+www.037hdmoviez.com###ads-sidebar-single-bottom
+www.037hdmoviez.com###ads-bottom-player
+||cdend.com^$media,domain=leoplayer7.com
+||googles.video^$media,domain=leoplayer7.com
