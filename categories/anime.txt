@@ -94,3 +94,8 @@ anime-sugoi.com##div.container > .row > .center_lnwphp
 animeyuzu.com##.code-block-1.code-block
 animeyuzu.com##.animekimi-banner
 animegojo.com##.bannerrow
+
+reborntrans.com##.wbnn
+reborntrans.com##.article__header > center
+reborntrans.com##.mb-4
+||reborntrans.com/banner/
