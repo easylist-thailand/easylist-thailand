@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202502072304
-! Last modified: 07 Feb 2025 23:04 +0700
+! Version: 202503151825
+! Last modified: 15 Mar 2025 18:25 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -192,6 +192,12 @@ anime-sugoi.com##div.container > .row > .center_lnwphp
 animeyuzu.com##.code-block-1.code-block
 animeyuzu.com##.animekimi-banner
 animegojo.com##.bannerrow
+
+reborntrans.com##.wbnn
+reborntrans.com##.article__header > center
+reborntrans.com##.mb-4
+||reborntrans.com/banner/
+
 ! Annoyance
 /plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
 mustplay.in.th,playulti.com##.alert.cookiealert
