@@ -99,3 +99,8 @@ reborntrans.com##.wbnn
 reborntrans.com##.article__header > center
 reborntrans.com##.mb-4
 ||reborntrans.com/banner/
+
+||cdend.com/wp-content/uploads/*.gif$image,domain=fairyanime.net
+||tonytonychopper.com/ads/$script
+fairyanime.net##.banner-bottom
+streaming.tonytonychopper.com###overlay-0
