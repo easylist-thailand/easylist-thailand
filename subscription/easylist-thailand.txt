@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: EasyList Thailand
-! Version: 202504130126
-! Last modified: 13 Apr 2025 01:26 +0700
+! Version: 202504261920
+! Last modified: 26 Apr 2025 19:20 +0700
 ! Expires: 3 days
 ! Homepage: https://easylist-thailand.github.io/
 ! License: https://github.com/easylist-thailand/easylist-thailand/blob/master/LICENSE
@@ -202,6 +202,9 @@ reborntrans.com##.mb-4
 ||tonytonychopper.com/ads/$script
 fairyanime.net##.banner-bottom
 streaming.tonytonychopper.com###overlay-0
+
+||anime-yuzu.com/up/img/webp/$image,~third-party
+anime-yuzu.com##.code-block
 
 ! Annoyance
 /plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
