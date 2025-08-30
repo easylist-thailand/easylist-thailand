@@ -161,3 +161,9 @@ www.037hdmoviez.com###ads-sidebar-single-bottom
 www.037hdmoviez.com###ads-bottom-player
 ||cdend.com^$media,domain=leoplayer7.com
 ||googles.video^$media,domain=leoplayer7.com
+
+! nung2-hdd.com
+nung2-hdd.com##div[class^="rIdV-"]
+/wp-content/uploads/*.gif$image,domain=nung2-hdd.com
+! $media,domain=steamseries88.com
+/ufathai24-1.mp4
