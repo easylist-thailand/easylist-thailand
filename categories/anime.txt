@@ -107,3 +107,29 @@ streaming.tonytonychopper.com###overlay-0
 
 ||anime-yuzu.com/up/img/webp/$image,~third-party
 anime-yuzu.com##.code-block
+
+! anime-waku.com
+anime-waku.com##a[href*="ibit.ly/"]
+anime-waku.com##img.animekimi-banner, img[alt="Advertisement"]
+
+! dark-manga.com
+dark-manga.com###sticky-bottom, #sticky-bottom2, #sticky-bottom3, .floating_content
+dark-manga.com##a[href*="ibit.ly/"], a[href*="rebrand.ly/"], a[href*="t.ly/"]
+dark-manga.com##a[href*="kamo99"], a[href*="lesliecheung.cc"], a[href*="mimerswell.com"], a[href*="theanalyticon.com"], a[href*="usefulpcguide.com"], a[href*="lottovipp.com"], a[href*="mabelsbbq.com"], a[href*="rinasnorthend.com"]
+dark-manga.com##img[alt*="สล็อต"], img[alt*="แทงบอล"], img[alt*="แทงมวย"], img[alt*="มั่นคง"], img[alt*="huay"], img[alt*="sagame"], img[alt*="ufabomb"], img[alt*="vip168"]
+
+! speed-manga.net
+speed-manga.net##a[href*="Cutt.ly/"], a[href*="cutt.ly/"], a[href*="ibit.ly/"], a[href*="t.ly/"], a[href*="t.me/"]
+speed-manga.net##a[href*="365kub"], a[href*="ufa222"], a[href*="77jili"], a[href*="blm808"], a[href*="mabelsbbq"], a[href*="ruayy"], a[href*="the88bet"], a[href*="wy88"]
+speed-manga.net##img[alt="ufa222"], img[alt="เว็บสล็อต"]
+
+! go-manga.com
+go-manga.com###sticky-bottom, #sticky-bottom2, #sticky-bottom3
+go-manga.com##a[href*="bit.ly/"], a[href*="cutt.ly/"], a[href*="ibit.ly/"], a[href*="t.ly/"], a[href*="tinyurl.com/"]
+go-manga.com##a[href*="4x4xbet"], a[href*="autobet888"], a[href*="goldenbrownbakery"], a[href*="huay2u"], a[href*="kamo99"], a[href*="sakakishinichiro"], a[href*="theanalyticon"], a[href*="theweekendjaunts"], a[href*="ufa-xxx"], a[href*="ufabetbnb"], a[href*="ultimate789"], a[href*="usefulpcguide"], a[href*="kaidonno1"], a[href*="mabelsbbq"], a[href*="ruayy"], a[href*="servacuisine"]
+go-manga.com##img[alt*="สล็อต"], img[alt*="แทงบอล"], img[alt*="มั่นคง"], img[alt*="huay"], img[alt*="ufabet"], img[alt*="ufa-"], img[alt*="wy88"], img[alt*="pigspin"], img[alt*="qq188"], img[alt*="gomanga"]
+
+! niceoppai.net
+niceoppai.net###text-2, #text-6, .rads
+niceoppai.net##a[href*="ibit.ly/"], a[href*="8xbet"], a[href*="baccarat"], a[href*="huaylike"]
+niceoppai.net##img[alt="8xbet"], img[alt="บาคาร่า"]
