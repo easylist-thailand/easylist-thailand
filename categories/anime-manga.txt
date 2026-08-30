@@ -1,4 +1,4 @@
-! Anime
+! Anime & Manga
 akibatan.com##.td-logo-wrap-full
 akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
 anime-i.com##.banner-top
@@ -82,6 +82,14 @@ anime-subthai.net##.ads-banner
 anime-subthai.net##[title^=banner]
 fembeq.com##+js(aopr, open)
 
+manga168.com##.slider-ads
+manga168.com##.dessert-frame
+manga168.com###ads_fox_bottom
+
+||image.cdend.com$image,domain=ranker-manga.com
+
+||image7.kingsmanga.net/00/00/gclub2.jpg$image,1p
+
 anime-sugoi.com##div.container > .row > .center_lnwphp
 animeyuzu.com##.code-block-1.code-block
 animeyuzu.com##.animekimi-banner
@@ -99,3 +107,15 @@ streaming.tonytonychopper.com###overlay-0
 
 ||anime-yuzu.com/up/img/webp/$image,~third-party
 anime-yuzu.com##.code-block
+
+www.mangakimi.com##.header-ads-section
+
+www.tanuki-manga.com##.mb-2.mt-2.text-center.col-md-12.ads
+
+mangawei.com##.dessert-frame
+
+www.niceoppai.net##.widget_text.top_page
+www.niceoppai.net###text-6
+www.niceoppai.net###text-9 > .con > .textwidget > [href]
+www.niceoppai.net###sct_top_banner > .textwidget
+www.niceoppai.net##.mng_rdr.wpm_pag > center
