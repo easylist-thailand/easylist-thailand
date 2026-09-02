@@ -1,19 +1,26 @@
 ! Movie
+
+! newmovie-hd.com
 newmovie-hd.com###main article p[align="center"]
 newmovie-hd.com###sidebar aside[id^="text"]:not(#text-2)
 
+! nungg.com
 nungg.com###nungg-1447152404 > .section-images
 nungg.com##.section-images
 
+! okmovie-hd.com
 okmovie-hd.com##.filmborder:nth-of-type(1)
 
+! thmovieshd.com
 thmovieshd.com##.bn_pc
 thmovieshd.com##.bn_mb
 thmovieshd.com##.post-contentarea .rpv .block-preload #block_preload p a[href*="gclub-casino.net"]
 
+! 2youhd.com
 www.2youhd.com##.sidebarborder:nth-of-type(1)
 www.2youhd.com##.sidebarborder:nth-of-type(2)
 
+! 037hdd.com
 www.037hdd.com##.bireklam
 www.037hdd.com##.filmborder > .filmcontent div[style^='text-align']
 www.037hdd.com##.widget_text.sidebarborder
@@ -57,9 +64,14 @@ www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(12)
 www.037hdd.com##div.sidebarborder.widget_text:nth-of-type(16)
 www.037hdd.com###banner-left
 www.037hdd.com###ads_fox_bottom
+
+! 1000tep.com
 www.1000tep.com##.ads.col-lg-9
+
+! club-172hd.com
 www.club-172hd.com###bg-main > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1)
 
+! moviehd-master.com
 www.moviehd-master.com###banner_t_player
 www.moviehd-master.com###text-5
 www.moviehd-master.com###text-6
@@ -67,26 +79,34 @@ www.moviehd-master.com###text-8
 www.moviehd-master.com###text-9
 www.moviehd-master.com###text-10
 
+! movie2free.com
 movie2free.com##div[style*="position: fixed; bottom: 0px;"]
 ||movie2free.com^$third-party
 ||www.movie2free.com/wp-content/themes/next/images/*$image
 
+! new-mastermovie.com
 www.new-mastermovie.com###main > div[style^='text-align']
 www.new-mastermovie.com###sidebar .widget.widget_text
 
+! leoplayer3.com
 www.leoplayer3.com###player_banner
 
+! vojkud.com
 vojkud.com###top-banner-section
 vojkud.com##.ad-box-widget
 vojkud.com##[alt="Advertisement"]
+
+! vojkudee.net
 vojkudee.net###top-banner-section
 vojkudee.net##.ad-box-widget
 vojkudee.net##[alt="Advertisement"]
 
+! donung.tv
 donung.tv##a[rel*="nofollow"] > img
 donung.tv###download-vdo
 donung.tv###ads_fox_bottom
 
+! movie2uhd.com
 movie2uhd.com##.ad-float
 movie2uhd.com##.widgettitle-banner + a[href]
 
@@ -145,11 +165,14 @@ subthai.tv##.fixspot-bottom
 www.seriesmy.today##.widget_content
 
 ! https://github.com/easylist-thailand/easylist-thailand/issues/91
+! 037hdmovie.com
 *.gif$image,domain=037hdmovie.com
 ||037hdmovie.com/ads^
+037hdmovie.com##[id^="ads"]
+
+! leoplayer7.com
 ||rsc.cdn77.org/videos/ads-$media,domain=leoplayer7.com
 ||upfastfile.com/upload/$media,domain=leoplayer7.com
-037hdmovie.com##[id^="ads"]
 
 ! 037hdmoviez
 www.037hdmoviez.com###ads-index
@@ -165,5 +188,6 @@ www.037hdmoviez.com###ads-bottom-player
 ! nung2-hdd.com
 nung2-hdd.com##div[class^="rIdV-"]
 /wp-content/uploads/*.gif$image,domain=nung2-hdd.com
+
 ! $media,domain=steamseries88.com
 /ufathai24-1.mp4
