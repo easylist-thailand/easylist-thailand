@@ -37,3 +37,10 @@ xxxpostpic.org##.slideto
 
 ! xxxdoofree.net
 xxxdoofree.net##img.banner, img.telegram-banner, img.ufaclub-banner
+
+! เสียวหีจ้าา.com
+เสียวหีจ้าา.com,xn--82c5cpkh7basd8hwe.com##.dac-section--banner, [data-section="banner_floating_left"], [data-section="banner_floating_right"], [data-section="bannerfloatbottom"]
+เสียวหีจ้าา.com,xn--82c5cpkh7basd8hwe.com##a.video-player-banner-left, a.video-player-banner-right
+เสียวหีจ้าา.com,xn--82c5cpkh7basd8hwe.com##a[href*="me356s.live"], a[href*="we356s2.com"]
+เสียวหีจ้าา.com,xn--82c5cpkh7basd8hwe.com##div.video-player-with-banners div#as-card
+
