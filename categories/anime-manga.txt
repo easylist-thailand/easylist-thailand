@@ -208,3 +208,10 @@ www.niceoppai.net##.mng_rdr.wpm_pag > center
 niceoppai.net###text-2, #text-6, .rads
 niceoppai.net##a[href*="ibit.ly/"], a[href*="8xbet"], a[href*="baccarat"], a[href*="huaylike"]
 niceoppai.net##img[alt="8xbet"], img[alt="บาคาร่า"]
+
+! animeruka.com
+animeruka.com##div#ad-group-a
+animeruka.com##div#box-footer-fix
+animeruka.com##div#box-side-l
+animeruka.com##div#box-side-r
+animeruka.com##img.animeruka-banner
